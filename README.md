@@ -24,6 +24,34 @@ All automation templates in this repository were found online and are uploaded h
 
 --- 
 
+## Quick Local Search & Import
+
+Use the local CLI to search templates by keyword or category.
+
+Usage examples:
+
+```bash
+# Search everywhere for a keyword
+python tools/search_templates.py -q telegram
+
+# Restrict to a category and limit results
+python tools/search_templates.py -c Telegram -q bot -n 5
+
+# Print only absolute file paths
+python tools/search_templates.py -q gmail --paths-only
+
+# Search only filenames and titles (skip content)
+python tools/search_templates.py -q notion --filenames
+```
+
+Import a template into n8n:
+- Open your n8n instance
+- Go to Workflows → Import from file
+- Select the desired `.json` from this repository
+- Save and configure credentials as prompted
+
+---
+
 ## Categories & Template List
 
 ---
