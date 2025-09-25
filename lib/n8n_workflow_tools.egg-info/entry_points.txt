@@ -1,0 +1,3 @@
+[console_scripts]
+n8n-validate = n8n_validate:main
+n8n-visualize = n8n_visualize:main
