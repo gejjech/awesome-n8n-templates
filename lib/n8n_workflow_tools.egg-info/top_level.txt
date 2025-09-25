@@ -1,4 +1,0 @@
-n8n_validate
-n8n_validator
-n8n_visualize
-n8n_visualizer
