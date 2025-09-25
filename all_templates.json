@@ -1,0 +1,2567 @@
+[
+  {
+    "absolute_path": "/workspace/AI product imagines.json",
+    "relative_path": "AI product imagines.json",
+    "title": "AI product Images",
+    "category": "",
+    "nodes_count": 17,
+    "file_size_bytes": 16306,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/HR_and_Recruitment/HR & IT Helpdesk Chatbot with Audio Transcription.json",
+    "relative_path": "HR_and_Recruitment/HR & IT Helpdesk Chatbot with Audio Transcription.json",
+    "title": "HR & IT Helpdesk Chatbot with Audio Transcription",
+    "category": "HR_and_Recruitment",
+    "nodes_count": 27,
+    "file_size_bytes": 16203,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/HR_and_Recruitment/HR Job Posting and Evaluation with AI.json",
+    "relative_path": "HR_and_Recruitment/HR Job Posting and Evaluation with AI.json",
+    "title": "HR Job Posting and Evaluation with AI",
+    "category": "HR_and_Recruitment",
+    "nodes_count": 36,
+    "file_size_bytes": 62111,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/HR_and_Recruitment/CV Screening with OpenAI.json",
+    "relative_path": "HR_and_Recruitment/CV Screening with OpenAI.json",
+    "title": "CV Screening with OpenAI",
+    "category": "HR_and_Recruitment",
+    "nodes_count": 11,
+    "file_size_bytes": 12323,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/HR_and_Recruitment/BambooHR AI-Powered Company Policies and Benefits Chatbot.json",
+    "relative_path": "HR_and_Recruitment/BambooHR AI-Powered Company Policies and Benefits Chatbot.json",
+    "title": "BambooHR AI-Powered Company Policies and Benefits Chatbot",
+    "category": "HR_and_Recruitment",
+    "nodes_count": 50,
+    "file_size_bytes": 26693,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Forms_and_Surveys/Email Subscription Service with n8n Forms, Airtable and AI.json",
+    "relative_path": "Forms_and_Surveys/Email Subscription Service with n8n Forms, Airtable and AI.json",
+    "title": "Email Subscription Service with n8n Forms, Airtable and AI",
+    "category": "Forms_and_Surveys",
+    "nodes_count": 32,
+    "file_size_bytes": 28842,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Forms_and_Surveys/Conversational Interviews with AI Agents and n8n Forms.json",
+    "relative_path": "Forms_and_Surveys/Conversational Interviews with AI Agents and n8n Forms.json",
+    "title": "Conversational Interviews with AI Agents and n8n Forms",
+    "category": "Forms_and_Surveys",
+    "nodes_count": 40,
+    "file_size_bytes": 40263,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Forms_and_Surveys/Qualifying Appointment Requests with AI & n8n Forms.json",
+    "relative_path": "Forms_and_Surveys/Qualifying Appointment Requests with AI & n8n Forms.json",
+    "title": "Qualifying Appointment Requests with AI & n8n Forms",
+    "category": "Forms_and_Surveys",
+    "nodes_count": 25,
+    "file_size_bytes": 20266,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Airtable/Get Airtable data via AI and Obsidian Notes.json",
+    "relative_path": "Airtable/Get Airtable data via AI and Obsidian Notes.json",
+    "title": "Get Airtable data in Obsidian Notes",
+    "category": "Airtable",
+    "nodes_count": 7,
+    "file_size_bytes": 4220,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Airtable/Handling Job Application Submissions with AI and n8n Forms.json",
+    "relative_path": "Airtable/Handling Job Application Submissions with AI and n8n Forms.json",
+    "title": "Handling Job Application Submissions with AI and n8n Forms",
+    "category": "Airtable",
+    "nodes_count": 23,
+    "file_size_bytes": 27018,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Airtable/AI Agent to chat with Airtable and analyze data.json",
+    "relative_path": "Airtable/AI Agent to chat with Airtable and analyze data.json",
+    "title": "AI Agent to chat with Airtable and analyze data",
+    "category": "Airtable",
+    "nodes_count": 41,
+    "file_size_bytes": 33345,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Airtable/AI Agent for project management and meetings with Airtable and Fireflies.json",
+    "relative_path": "Airtable/AI Agent for project management and meetings with Airtable and Fireflies.json",
+    "title": "AI Agent for project management and meetings with Airtable and Fireflies",
+    "category": "Airtable",
+    "nodes_count": 18,
+    "file_size_bytes": 14513,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Airtable/vAssistant for Hubspot Chat using OpenAi and Airtable.json",
+    "relative_path": "Airtable/vAssistant for Hubspot Chat using OpenAi and Airtable.json",
+    "title": "OpenAI Assistant for Hubspot Chat",
+    "category": "Airtable",
+    "nodes_count": 34,
+    "file_size_bytes": 22013,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other/ALL_unique_nodes.json",
+    "relative_path": "Other/ALL_unique_nodes.json",
+    "title": "ALL_unique_nodes",
+    "category": "Other",
+    "nodes_count": null,
+    "file_size_bytes": 0,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Discord/Discord AI-powered bot.json",
+    "relative_path": "Discord/Discord AI-powered bot.json",
+    "title": "Discord AI bot",
+    "category": "Discord",
+    "nodes_count": 9,
+    "file_size_bytes": 5273,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Discord/Send daily translated Calvin and Hobbes Comics to Discord.json",
+    "relative_path": "Discord/Send daily translated Calvin and Hobbes Comics to Discord.json",
+    "title": "Send daily translated Calvin and Hobbes Comics to Discord",
+    "category": "Discord",
+    "nodes_count": 8,
+    "file_size_bytes": 5806,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Discord/Share YouTube Videos with AI Summaries on Discord.json",
+    "relative_path": "Discord/Share YouTube Videos with AI Summaries on Discord.json",
+    "title": "YouTube Videos with AI Summaries on Discord",
+    "category": "Discord",
+    "nodes_count": 8,
+    "file_size_bytes": 5214,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Instagram_Twitter_Social_Media/Twitter Virtual AI Influencer.json",
+    "relative_path": "Instagram_Twitter_Social_Media/Twitter Virtual AI Influencer.json",
+    "title": "Twitter Virtual AI Influencer",
+    "category": "Instagram_Twitter_Social_Media",
+    "nodes_count": 12,
+    "file_size_bytes": 6769,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Instagram_Twitter_Social_Media/Social Media Analysis and Automated Email Generation.json",
+    "relative_path": "Instagram_Twitter_Social_Media/Social Media Analysis and Automated Email Generation.json",
+    "title": "Social Media Analysis and Automated Email Generation",
+    "category": "Instagram_Twitter_Social_Media",
+    "nodes_count": 19,
+    "file_size_bytes": 17853,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Instagram_Twitter_Social_Media/Generate Instagram Content from Top Trends with AI Image Generation.json",
+    "relative_path": "Instagram_Twitter_Social_Media/Generate Instagram Content from Top Trends with AI Image Generation.json",
+    "title": "Generate Instagram Content from Top Trends with AI Image Generation",
+    "category": "Instagram_Twitter_Social_Media",
+    "nodes_count": 44,
+    "file_size_bytes": 29271,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Instagram_Twitter_Social_Media/Speed Up Social Media Banners With BannerBear.com.json",
+    "relative_path": "Instagram_Twitter_Social_Media/Speed Up Social Media Banners With BannerBear.com.json",
+    "title": "Speed Up Social Media Banners With BannerBear.com",
+    "category": "Instagram_Twitter_Social_Media",
+    "nodes_count": 16,
+    "file_size_bytes": 11358,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Instagram_Twitter_Social_Media/Create dynamic Twitter profile banner.json",
+    "relative_path": "Instagram_Twitter_Social_Media/Create dynamic Twitter profile banner.json",
+    "title": "Create dynamic Twitter profile banner",
+    "category": "Instagram_Twitter_Social_Media",
+    "nodes_count": 12,
+    "file_size_bytes": 5015,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Instagram_Twitter_Social_Media/Post New YouTube Videos to X.json",
+    "relative_path": "Instagram_Twitter_Social_Media/Post New YouTube Videos to X.json",
+    "title": "Post New YouTube Videos to X",
+    "category": "Instagram_Twitter_Social_Media",
+    "nodes_count": 6,
+    "file_size_bytes": 3414,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Instagram_Twitter_Social_Media/AI agent for Instagram DM_inbox. Manychat + Open AI integration.json",
+    "relative_path": "Instagram_Twitter_Social_Media/AI agent for Instagram DM_inbox. Manychat + Open AI integration.json",
+    "title": "InstaTest",
+    "category": "Instagram_Twitter_Social_Media",
+    "nodes_count": 11,
+    "file_size_bytes": 6028,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Instagram_Twitter_Social_Media/Reddit AI digest.json",
+    "relative_path": "Instagram_Twitter_Social_Media/Reddit AI digest.json",
+    "title": "Reddit AI digest",
+    "category": "Instagram_Twitter_Social_Media",
+    "nodes_count": 15,
+    "file_size_bytes": 8880,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Instagram_Twitter_Social_Media/OpenAI-powered tweet generator.json",
+    "relative_path": "Instagram_Twitter_Social_Media/OpenAI-powered tweet generator.json",
+    "title": "OpenAI-powered tweet generator",
+    "category": "Instagram_Twitter_Social_Media",
+    "nodes_count": 5,
+    "file_size_bytes": 2264,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Instagram_Twitter_Social_Media/Update Twitter banner using HTTP request.json",
+    "relative_path": "Instagram_Twitter_Social_Media/Update Twitter banner using HTTP request.json",
+    "title": "Update Twitter banner using HTTP request",
+    "category": "Instagram_Twitter_Social_Media",
+    "nodes_count": 4,
+    "file_size_bytes": 1339,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/Auto Categorise Outlook Emails with AI.json",
+    "relative_path": "Gmail_and_Email_Automation/Auto Categorise Outlook Emails with AI.json",
+    "title": "Auto Categorise Outlook Emails with AI",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 36,
+    "file_size_bytes": 26364,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/Summarize your emails with A.I. (via Openrouter) and send to Line messenger.json",
+    "relative_path": "Gmail_and_Email_Automation/Summarize your emails with A.I. (via Openrouter) and send to Line messenger.json",
+    "title": "Summarize emails with A.I. then send to messenger",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 7,
+    "file_size_bytes": 4976,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/Email Summary Agent.json",
+    "relative_path": "Gmail_and_Email_Automation/Email Summary Agent.json",
+    "title": "Email Summary Agent",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 9,
+    "file_size_bytes": 9257,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/Compose reply draft in Gmail with OpenAI Assistant.json",
+    "relative_path": "Gmail_and_Email_Automation/Compose reply draft in Gmail with OpenAI Assistant.json",
+    "title": "Compose reply draft in Gmail with OpenAI Assistant",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 23,
+    "file_size_bytes": 11780,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/📈 Receive Daily Market News from FT.com to your Microsoft outlook inbox.json",
+    "relative_path": "Gmail_and_Email_Automation/📈 Receive Daily Market News from FT.com to your Microsoft outlook inbox.json",
+    "title": "📈 Receive Daily Market News from FT.com to your Microsoft outlook inbox",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 8,
+    "file_size_bytes": 7289,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/A Very Simple _Human in the Loop_ Email Response System Using AI and IMAP.json",
+    "relative_path": "Gmail_and_Email_Automation/A Very Simple _Human in the Loop_ Email Response System Using AI and IMAP.json",
+    "title": "Very simple Human in the loop system email with AI e IMAP",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 16,
+    "file_size_bytes": 8171,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/Analyze Suspicious Email Contents with ChatGPT Vision.json",
+    "relative_path": "Gmail_and_Email_Automation/Analyze Suspicious Email Contents with ChatGPT Vision.json",
+    "title": "Analyze Suspicious Email Contents with ChatGPT Vision",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 18,
+    "file_size_bytes": 14315,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/Basic Automatic Gmail Email Labelling with OpenAI and Gmail API.json",
+    "relative_path": "Gmail_and_Email_Automation/Basic Automatic Gmail Email Labelling with OpenAI and Gmail API.json",
+    "title": "Basic Automatic Gmail Email Labelling with OpenAI and Gmail API",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 13,
+    "file_size_bytes": 10475,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/create e-mail responses with fastmail and OpenAI.json",
+    "relative_path": "Gmail_and_Email_Automation/create e-mail responses with fastmail and OpenAI.json",
+    "title": "create e-mail responses with fastmail and OpenAI",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 11,
+    "file_size_bytes": 10760,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/Send specific PDF attachments from Gmail to Google Drive using OpenAI.json",
+    "relative_path": "Gmail_and_Email_Automation/Send specific PDF attachments from Gmail to Google Drive using OpenAI.json",
+    "title": "Send specific PDF attachments from Gmail to Google Drive using OpenAI",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 18,
+    "file_size_bytes": 9479,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/Classify lemlist replies using OpenAI and automate reply handling.json",
+    "relative_path": "Gmail_and_Email_Automation/Classify lemlist replies using OpenAI and automate reply handling.json",
+    "title": "Classify lemlist replies using OpenAI and automate reply handling",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 18,
+    "file_size_bytes": 10840,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/Microsoft Outlook AI Email Assistant with contact support from Monday and Airtable.json",
+    "relative_path": "Gmail_and_Email_Automation/Microsoft Outlook AI Email Assistant with contact support from Monday and Airtable.json",
+    "title": "Microsoft Outlook AI Email Assistant",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 28,
+    "file_size_bytes": 20747,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/Analyze & Sort Suspicious Email Contents with ChatGPT.json",
+    "relative_path": "Gmail_and_Email_Automation/Analyze & Sort Suspicious Email Contents with ChatGPT.json",
+    "title": "Analyze & Sort Suspicious Email Contents with ChatGPT",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 25,
+    "file_size_bytes": 19769,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/Gmail AI Auto-Responder_ Create Draft Replies to incoming emails.json",
+    "relative_path": "Gmail_and_Email_Automation/Gmail AI Auto-Responder_ Create Draft Replies to incoming emails.json",
+    "title": "Gmail AI auto-responder: create draft replies to incoming emails",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 12,
+    "file_size_bytes": 6952,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/Modular & Customizable AI-Powered Email Routing_ Text Classifier for eCommerce.json",
+    "relative_path": "Gmail_and_Email_Automation/Modular & Customizable AI-Powered Email Routing_ Text Classifier for eCommerce.json",
+    "title": "Contact Form Text Classifier for eCommerce",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 14,
+    "file_size_bytes": 18495,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/Send a ChatGPT email reply and save responses to Google Sheets.json",
+    "relative_path": "Gmail_and_Email_Automation/Send a ChatGPT email reply and save responses to Google Sheets.json",
+    "title": "Send a ChatGPT email reply and save responses to Google Sheets",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 49,
+    "file_size_bytes": 74895,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/AI-powered email processing autoresponder and response approval (Yes_No).json",
+    "relative_path": "Gmail_and_Email_Automation/AI-powered email processing autoresponder and response approval (Yes_No).json",
+    "title": "AI Email processing autoresponder with approval (Yes/No)",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 17,
+    "file_size_bytes": 9829,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/Extract spending history from gmail to google sheet.json",
+    "relative_path": "Gmail_and_Email_Automation/Extract spending history from gmail to google sheet.json",
+    "title": "Extract spend details (template)",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 24,
+    "file_size_bytes": 25813,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/Effortless Email Management with AI-Powered Summarization & Review.json",
+    "relative_path": "Gmail_and_Email_Automation/Effortless Email Management with AI-Powered Summarization & Review.json",
+    "title": "Effortless Email Management with AI",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 31,
+    "file_size_bytes": 16999,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Gmail_and_Email_Automation/Auto-label incoming Gmail messages with AI nodes.json",
+    "relative_path": "Gmail_and_Email_Automation/Auto-label incoming Gmail messages with AI nodes.json",
+    "title": "Auto-label incoming Gmail messages with AI nodes",
+    "category": "Gmail_and_Email_Automation",
+    "nodes_count": 19,
+    "file_size_bytes": 9484,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/🐋🤖 DeepSeek AI Agent + Telegram + LONG TERM Memory 🧠.json",
+    "relative_path": "Telegram/🐋🤖 DeepSeek AI Agent + Telegram + LONG TERM Memory 🧠.json",
+    "title": "🐋🤖 DeepSeek AI Agent + Telegram + LONG TERM Memory 🧠",
+    "category": "Telegram",
+    "nodes_count": 23,
+    "file_size_bytes": 16986,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/Send a random recipe once a day to Telegram.json",
+    "relative_path": "Telegram/Send a random recipe once a day to Telegram.json",
+    "title": "Send a random recipe once a day to Telegram",
+    "category": "Telegram",
+    "nodes_count": 15,
+    "file_size_bytes": 7363,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/Automated AI image analysis and response via Telegram.json",
+    "relative_path": "Telegram/Automated AI image analysis and response via Telegram.json",
+    "title": "Automated AI image analysis and response via Telegram",
+    "category": "Telegram",
+    "nodes_count": 8,
+    "file_size_bytes": 7706,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/AI-Powered Children_s Arabic Storytelling on Telegram.json",
+    "relative_path": "Telegram/AI-Powered Children_s Arabic Storytelling on Telegram.json",
+    "title": "AI-Powered Children_s Arabic Storytelling on Telegram",
+    "category": "Telegram",
+    "nodes_count": 15,
+    "file_size_bytes": 10992,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/Detect toxic language in Telegram messages.json",
+    "relative_path": "Telegram/Detect toxic language in Telegram messages.json",
+    "title": "Detect toxic language in Telegram messages",
+    "category": "Telegram",
+    "nodes_count": 5,
+    "file_size_bytes": 2109,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/Image Creation with OpenAI and Telegram.json",
+    "relative_path": "Telegram/Image Creation with OpenAI and Telegram.json",
+    "title": "Image Creation with OpenAI and Telegram",
+    "category": "Telegram",
+    "nodes_count": 12,
+    "file_size_bytes": 6120,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/Translate Telegram audio messages with AI (55 supported languages).json",
+    "relative_path": "Telegram/Translate Telegram audio messages with AI (55 supported languages).json",
+    "title": "Translate Telegram audio messages with AI (55 supported languages) v1",
+    "category": "Telegram",
+    "nodes_count": 13,
+    "file_size_bytes": 7111,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/Agentic Telegram AI bot with with LangChain nodes and new tools.json",
+    "relative_path": "Telegram/Agentic Telegram AI bot with with LangChain nodes and new tools.json",
+    "title": "Agentic Telegram AI bot with LangChain nodes and new tools",
+    "category": "Telegram",
+    "nodes_count": 8,
+    "file_size_bytes": 4894,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/🤖🧠 AI Agent Chatbot + LONG TERM Memory + Note Storage + Telegram.json",
+    "relative_path": "Telegram/🤖🧠 AI Agent Chatbot + LONG TERM Memory + Note Storage + Telegram.json",
+    "title": "🤖🧠 AI Agent Chatbot + LONG TERM Memory + Note Storage + Telegram",
+    "category": "Telegram",
+    "nodes_count": 21,
+    "file_size_bytes": 12986,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/Telegram AI Bot_ NeurochainAI Text & Image - NeurochainAI Basic API Integration.json",
+    "relative_path": "Telegram/Telegram AI Bot_ NeurochainAI Text & Image - NeurochainAI Basic API Integration.json",
+    "title": "NeurochainAI Basic API Integration",
+    "category": "Telegram",
+    "nodes_count": 29,
+    "file_size_bytes": 19739,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/Chat with OpenAIs GPT via a simple Telegram Bot.json",
+    "relative_path": "Telegram/Chat with OpenAIs GPT via a simple Telegram Bot.json",
+    "title": "Chat with OpenAIs GPT via a simple Telegram Bot",
+    "category": "Telegram",
+    "nodes_count": 4,
+    "file_size_bytes": 1924,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/Telegram AI bot with LangChain nodes.json",
+    "relative_path": "Telegram/Telegram AI bot with LangChain nodes.json",
+    "title": "Telegram AI Langchain bot",
+    "category": "Telegram",
+    "nodes_count": 12,
+    "file_size_bytes": 8592,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/Telegram AI Chatbot.json",
+    "relative_path": "Telegram/Telegram AI Chatbot.json",
+    "title": "Telegram AI-bot",
+    "category": "Telegram",
+    "nodes_count": 16,
+    "file_size_bytes": 8622,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/Telegram Bot with Supabase memory and OpenAI assistant integration.json",
+    "relative_path": "Telegram/Telegram Bot with Supabase memory and OpenAI assistant integration.json",
+    "title": "Telegram Bot with Supabase memory and OpenAI assistant integration",
+    "category": "Telegram",
+    "nodes_count": 17,
+    "file_size_bytes": 25732,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/AI-Powered Children_s English Storytelling on Telegram with OpenAI.json",
+    "relative_path": "Telegram/AI-Powered Children_s English Storytelling on Telegram with OpenAI.json",
+    "title": "AI-Powered Children_s English Storytelling on Telegram with OpenAI",
+    "category": "Telegram",
+    "nodes_count": 14,
+    "file_size_bytes": 10879,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/Telegram chat with PDF.json",
+    "relative_path": "Telegram/Telegram chat with PDF.json",
+    "title": "Telegram RAG pdf",
+    "category": "Telegram",
+    "nodes_count": 20,
+    "file_size_bytes": 10228,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/Angie, Personal AI Assistant with Telegram Voice and Text.json",
+    "relative_path": "Telegram/Angie, Personal AI Assistant with Telegram Voice and Text.json",
+    "title": "Angie, Personal AI Assistant with Telegram Voice and Text",
+    "category": "Telegram",
+    "nodes_count": 15,
+    "file_size_bytes": 8535,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/🤖 Telegram Messaging Agent for Text_Audio_Images.json",
+    "relative_path": "Telegram/🤖 Telegram Messaging Agent for Text_Audio_Images.json",
+    "title": "🤖 Telegram Messaging Agent for Text/Audio/Images",
+    "category": "Telegram",
+    "nodes_count": 39,
+    "file_size_bytes": 21189,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/Telegram to Spotify with OpenAI.json",
+    "relative_path": "Telegram/Telegram to Spotify with OpenAI.json",
+    "title": "Play with Spotify from Telegram",
+    "category": "Telegram",
+    "nodes_count": 14,
+    "file_size_bytes": 7742,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Telegram/Telegram AI bot assistant_ ready-made template for voice & text messages.json",
+    "relative_path": "Telegram/Telegram AI bot assistant_ ready-made template for voice & text messages.json",
+    "title": "Telegram AI multi-format chatbot",
+    "category": "Telegram",
+    "nodes_count": 15,
+    "file_size_bytes": 11167,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Google_Drive_and_Google_Sheets/Flux Dev Image Generation (Fal.ai) to Google Drive.json",
+    "relative_path": "Google_Drive_and_Google_Sheets/Flux Dev Image Generation (Fal.ai) to Google Drive.json",
+    "title": "Flux Dev Image Generation Fal.ai",
+    "category": "Google_Drive_and_Google_Sheets",
+    "nodes_count": 12,
+    "file_size_bytes": 6668,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Google_Drive_and_Google_Sheets/Summarize Google Sheets form feedback via OpenAI_s GPT-4.json",
+    "relative_path": "Google_Drive_and_Google_Sheets/Summarize Google Sheets form feedback via OpenAI_s GPT-4.json",
+    "title": "Summarize Google Sheets form feedback via OpenAI's GPT-4",
+    "category": "Google_Drive_and_Google_Sheets",
+    "nodes_count": 10,
+    "file_size_bytes": 6791,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Google_Drive_and_Google_Sheets/✨ Vision-Based AI Agent Scraper - with Google Sheets, ScrapingBee, and Gemini.json",
+    "relative_path": "Google_Drive_and_Google_Sheets/✨ Vision-Based AI Agent Scraper - with Google Sheets, ScrapingBee, and Gemini.json",
+    "title": "Vision-Based AI Agent Scraper - with Google Sheets, ScrapingBee, and Gemini",
+    "category": "Google_Drive_and_Google_Sheets",
+    "nodes_count": 29,
+    "file_size_bytes": 21118,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Google_Drive_and_Google_Sheets/RAG Chatbot for Company Documents using Google Drive and Gemini.json",
+    "relative_path": "Google_Drive_and_Google_Sheets/RAG Chatbot for Company Documents using Google Drive and Gemini.json",
+    "title": "RAG Workflow For Company Documents stored in Google Drive",
+    "category": "Google_Drive_and_Google_Sheets",
+    "nodes_count": 18,
+    "file_size_bytes": 10484,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Google_Drive_and_Google_Sheets/Build an OpenAI Assistant with Google Drive Integration.json",
+    "relative_path": "Google_Drive_and_Google_Sheets/Build an OpenAI Assistant with Google Drive Integration.json",
+    "title": "Build an OpenAI Assistant with Google Drive Integration",
+    "category": "Google_Drive_and_Google_Sheets",
+    "nodes_count": 12,
+    "file_size_bytes": 6641,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Google_Drive_and_Google_Sheets/Simple Expense Tracker with n8n Chat, AI Agent and Google Sheets.json",
+    "relative_path": "Google_Drive_and_Google_Sheets/Simple Expense Tracker with n8n Chat, AI Agent and Google Sheets.json",
+    "title": "AI agent: expense tracker in Google Sheets and n8n chat",
+    "category": "Google_Drive_and_Google_Sheets",
+    "nodes_count": 10,
+    "file_size_bytes": 7812,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Google_Drive_and_Google_Sheets/Summarize the New Documents from Google Drive and Save Summary in Google Sheet.json",
+    "relative_path": "Google_Drive_and_Google_Sheets/Summarize the New Documents from Google Drive and Save Summary in Google Sheet.json",
+    "title": "Google Doc Summarizer to Google Sheets",
+    "category": "Google_Drive_and_Google_Sheets",
+    "nodes_count": 12,
+    "file_size_bytes": 7030,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Google_Drive_and_Google_Sheets/Chat with a Google Sheet using AI.json",
+    "relative_path": "Google_Drive_and_Google_Sheets/Chat with a Google Sheet using AI.json",
+    "title": "Chat with Google Sheet",
+    "category": "Google_Drive_and_Google_Sheets",
+    "nodes_count": 19,
+    "file_size_bytes": 11040,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Google_Drive_and_Google_Sheets/Author and Publish Blog Posts From Google Sheets.json",
+    "relative_path": "Google_Drive_and_Google_Sheets/Author and Publish Blog Posts From Google Sheets.json",
+    "title": "Blog Automation TEMPLATE",
+    "category": "Google_Drive_and_Google_Sheets",
+    "nodes_count": 35,
+    "file_size_bytes": 36265,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Google_Drive_and_Google_Sheets/Screen Applicants With AI, notify HR and save them in a Google Sheet.json",
+    "relative_path": "Google_Drive_and_Google_Sheets/Screen Applicants With AI, notify HR and save them in a Google Sheet.json",
+    "title": "AI CV Screening Workflow",
+    "category": "Google_Drive_and_Google_Sheets",
+    "nodes_count": 7,
+    "file_size_bytes": 8678,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Google_Drive_and_Google_Sheets/Upload to Instagram and Tiktok from Google Drive.json",
+    "relative_path": "Google_Drive_and_Google_Sheets/Upload to Instagram and Tiktok from Google Drive.json",
+    "title": "template in store",
+    "category": "Google_Drive_and_Google_Sheets",
+    "nodes_count": 13,
+    "file_size_bytes": 10277,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Google_Drive_and_Google_Sheets/Extract Information from a Logo Sheet using forms, AI, Google Sheet and Airtable.json",
+    "relative_path": "Google_Drive_and_Google_Sheets/Extract Information from a Logo Sheet using forms, AI, Google Sheet and Airtable.json",
+    "title": "AI Logo Sheet Extractor to Airtable",
+    "category": "Google_Drive_and_Google_Sheets",
+    "nodes_count": 44,
+    "file_size_bytes": 36511,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Google_Drive_and_Google_Sheets/Automatic Background Removal for Images in Google Drive.json",
+    "relative_path": "Google_Drive_and_Google_Sheets/Automatic Background Removal for Images in Google Drive.json",
+    "title": "Remove Advanced Background from Google Drive Images",
+    "category": "Google_Drive_and_Google_Sheets",
+    "nodes_count": 16,
+    "file_size_bytes": 10984,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Google_Drive_and_Google_Sheets/Qualify new leads in Google Sheets via OpenAI_s GPT-4.json",
+    "relative_path": "Google_Drive_and_Google_Sheets/Qualify new leads in Google Sheets via OpenAI_s GPT-4.json",
+    "title": "Qualify new leads in Google Sheets via OpenAI's GPT-4",
+    "category": "Google_Drive_and_Google_Sheets",
+    "nodes_count": 9,
+    "file_size_bytes": 8560,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Google_Drive_and_Google_Sheets/RAG_Context-Aware Chunking _ Google Drive to Pinecone via OpenRouter & Gemini.json",
+    "relative_path": "Google_Drive_and_Google_Sheets/RAG_Context-Aware Chunking _ Google Drive to Pinecone via OpenRouter & Gemini.json",
+    "title": "RAG:Context-Aware Chunking | Google Drive to Pinecone via OpenRouter & Gemini",
+    "category": "Google_Drive_and_Google_Sheets",
+    "nodes_count": 17,
+    "file_size_bytes": 8957,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Google_Drive_and_Google_Sheets/Automated End-to-End Fine-Tuning of OpenAI Models with Google Drive Integration.json",
+    "relative_path": "Google_Drive_and_Google_Sheets/Automated End-to-End Fine-Tuning of OpenAI Models with Google Drive Integration.json",
+    "title": "Fine-tuning with OpenAI models",
+    "category": "Google_Drive_and_Google_Sheets",
+    "nodes_count": 9,
+    "file_size_bytes": 5709,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Google_Drive_and_Google_Sheets/Chat with your event schedule from Google Sheets in Telegram.json",
+    "relative_path": "Google_Drive_and_Google_Sheets/Chat with your event schedule from Google Sheets in Telegram.json",
+    "title": "Telegram-bot AI Da Nang",
+    "category": "Google_Drive_and_Google_Sheets",
+    "nodes_count": 23,
+    "file_size_bytes": 12700,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Spot Workplace Discrimination Patterns with AI.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Spot Workplace Discrimination Patterns with AI.json",
+    "title": "Spot Workplace Discrimination Patterns with AI",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 38,
+    "file_size_bytes": 59976,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Build Your Own Image Search Using AI Object Detection, CDN and ElasticSearchBuild Your Own Image Search Using AI Object Detection, CDN and ElasticSearch.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Build Your Own Image Search Using AI Object Detection, CDN and ElasticSearchBuild Your Own Image Search Using AI Object Detection, CDN and ElasticSearch.json",
+    "title": "Build Your Own Image Search Using AI Object Detection, CDN and ElasticSearchBuild Your Own Image Search Using AI Object Detection, CDN and ElasticSearch",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 17,
+    "file_size_bytes": 10684,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Customer Insights with Qdrant, Python and Information Extractor.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Customer Insights with Qdrant, Python and Information Extractor.json",
+    "title": "Customer Insights with Qdrant, Python and Information Extractor",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 37,
+    "file_size_bytes": 27743,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Send Google analytics data to A.I. to analyze then save results in BaserowSend Google analytics data to A.I. to analyze then save results in Baserow.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Send Google analytics data to A.I. to analyze then save results in BaserowSend Google analytics data to A.I. to analyze then save results in Baserow.json",
+    "title": "Google analytics template",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 22,
+    "file_size_bytes": 24195,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Hacker News to Video Content.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Hacker News to Video Content.json",
+    "title": "Hacker News to Video Template - AlexK1919",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 48,
+    "file_size_bytes": 30092,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Summarize Umami data with AI (via Openrouter) and save it to Baserow.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Summarize Umami data with AI (via Openrouter) and save it to Baserow.json",
+    "title": "Umami analytics template",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 17,
+    "file_size_bytes": 11904,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Chat with GitHub API Documentation_ RAG-Powered Chatbot with Pinecone & OpenAI.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Chat with GitHub API Documentation_ RAG-Powered Chatbot with Pinecone & OpenAI.json",
+    "title": "Chat with GitHub OpenAPI Specification using RAG (Pinecone and OpenAI)",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 17,
+    "file_size_bytes": 8239,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Query Perplexity AI from your n8n workflows.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Query Perplexity AI from your n8n workflows.json",
+    "title": "Query Perplexity AI from your n8n workflows",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 6,
+    "file_size_bytes": 3890,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Visual Regression Testing with Apify and AI Vision Model.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Visual Regression Testing with Apify and AI Vision Model.json",
+    "title": "Visual Regression Testing with Apify and AI Vision Model",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 34,
+    "file_size_bytes": 23496,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/🔍 Perplexity Research to HTML_ AI-Powered Content Creation.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/🔍 Perplexity Research to HTML_ AI-Powered Content Creation.json",
+    "title": "🔍 Perplexity Research to HTML_ AI-Powered Content Creation",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": null,
+    "file_size_bytes": 141476,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Build a Tax Code Assistant with Qdrant, Mistral.ai and OpenAI.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Build a Tax Code Assistant with Qdrant, Mistral.ai and OpenAI.json",
+    "title": "Build a Tax Code Assistant with Qdrant, Mistral.ai and OpenAI",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 38,
+    "file_size_bytes": 23251,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Make OpenAI Citation for File Retrieval RAG.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Make OpenAI Citation for File Retrieval RAG.json",
+    "title": "Make OpenAI Citation for File Retrieval RAG",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 19,
+    "file_size_bytes": 10834,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Reconcile Rent Payments with Local Excel Spreadsheet and OpenAI.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Reconcile Rent Payments with Local Excel Spreadsheet and OpenAI.json",
+    "title": "Reconcile Rent Payments with Local Excel Spreadsheet and OpenAI",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 17,
+    "file_size_bytes": 13037,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Survey Insights with Qdrant, Python and Information Extractor.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Survey Insights with Qdrant, Python and Information Extractor.json",
+    "title": "Survey Insights with Qdrant, Python and Information Extractor",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 42,
+    "file_size_bytes": 29256,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Analyze tradingview.com charts with Chrome extension, N8N and OpenAI.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Analyze tradingview.com charts with Chrome extension, N8N and OpenAI.json",
+    "title": "chrome extension backend with AI",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 5,
+    "file_size_bytes": 2990,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Vector Database as a Big Data Analysis Tool for AI Agents [1_3 anomaly][1_2 KNN].json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Vector Database as a Big Data Analysis Tool for AI Agents [1_3 anomaly][1_2 KNN].json",
+    "title": "[1/3 - anomaly detection] [1/2 - KNN classification] Batch upload dataset to Qdrant (crops dataset)",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 25,
+    "file_size_bytes": 18757,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Intelligent Web Query and Semantic Re-Ranking Flow using Brave and Google Gemini.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Intelligent Web Query and Semantic Re-Ranking Flow using Brave and Google Gemini.json",
+    "title": "Intelligent Web Query and Semantic Re-Ranking Flow",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 20,
+    "file_size_bytes": 35424,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Hacker News Job Listing Scraper and Parser.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Hacker News Job Listing Scraper and Parser.json",
+    "title": "HN Who is Hiring Scrape",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 20,
+    "file_size_bytes": 18506,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Scrape and summarize webpages with AI.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Scrape and summarize webpages with AI.json",
+    "title": "Scrape and summarize webpages with AI",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 15,
+    "file_size_bytes": 5989,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Send Google analytics data to A.I. to analyze then save results in Baserow.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Send Google analytics data to A.I. to analyze then save results in Baserow.json",
+    "title": "Google analytics template",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 22,
+    "file_size_bytes": 24195,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Summarize SERPBear data with AI (via Openrouter) and save it to Baserow.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Summarize SERPBear data with AI (via Openrouter) and save it to Baserow.json",
+    "title": "SERPBear analytics template",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 10,
+    "file_size_bytes": 7046,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Scrape Trustpilot Reviews with DeepSeek, Analyze Sentiment with OpenAI.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Scrape Trustpilot Reviews with DeepSeek, Analyze Sentiment with OpenAI.json",
+    "title": "Scrape Trustpilot Reviews with DeepSeek, Analyze Sentiment with OpenAI",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 20,
+    "file_size_bytes": 16333,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Build a Financial Documents Assistant using Qdrant and Mistral.ai.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Build a Financial Documents Assistant using Qdrant and Mistral.ai.json",
+    "title": "Build a Financial Documents Assistant using Qdrant and Mistral.ai",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 29,
+    "file_size_bytes": 19038,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Vector Database as a Big Data Analysis Tool for AI Agents [2_2 KNN].json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Vector Database as a Big Data Analysis Tool for AI Agents [2_2 KNN].json",
+    "title": "[2/2] KNN classifier (lands dataset)",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 18,
+    "file_size_bytes": 13098,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Ultimate Scraper Workflow for n8n.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Ultimate Scraper Workflow for n8n.json",
+    "title": "Selenium Ultimate Scraper Workflow",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 63,
+    "file_size_bytes": 41103,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Recipe Recommendations with Qdrant and Mistral.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Recipe Recommendations with Qdrant and Mistral.json",
+    "title": "Recipe Recommendations with Qdrant and Mistral",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": null,
+    "file_size_bytes": 22221,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Building RAG Chatbot for Movie Recommendations with Qdrant and Open AI.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Building RAG Chatbot for Movie Recommendations with Qdrant and Open AI.json",
+    "title": "Building RAG Chatbot for Movie Recommendations with Qdrant and Open AI",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 27,
+    "file_size_bytes": 15163,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Vector Database as a Big Data Analysis Tool for AI Agents [3_3 - anomaly].json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Vector Database as a Big Data Analysis Tool for AI Agents [3_3 - anomaly].json",
+    "title": "[3/3] Anomaly detection tool (crops dataset)",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 17,
+    "file_size_bytes": 12452,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Scrape and summarize posts of a news site without RSS feed using AI and save them to a NocoDB.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Scrape and summarize posts of a news site without RSS feed using AI and save them to a NocoDB.json",
+    "title": "News Extraction",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 36,
+    "file_size_bytes": 17766,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Enrich Property Inventory Survey with Image Recognition and AI Agent.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Enrich Property Inventory Survey with Image Recognition and AI Agent.json",
+    "title": "Enrich Property Inventory Survey with Image Recognition and AI Agent",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 29,
+    "file_size_bytes": 21638,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Generate SEO Seed Keywords Using AI.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Generate SEO Seed Keywords Using AI.json",
+    "title": "Generate SEO Seed Keywords Using AI",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 15,
+    "file_size_bytes": 9009,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Deduplicate Scraping AI Grants for Eligibility using AI.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Deduplicate Scraping AI Grants for Eligibility using AI.json",
+    "title": "Deduplicate Scraping AI Grants for Eligibility using AI",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 24,
+    "file_size_bytes": 35090,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Learn Anything from HN - Get Top Resource Recommendations from Hacker News.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Learn Anything from HN - Get Top Resource Recommendations from Hacker News.json",
+    "title": "Learn Anything from HN - Get Top Resource Recommendations from Hacker News",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 10,
+    "file_size_bytes": 6486,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Automated Hugging Face Paper Summary Fetching & Categorization Workflow.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Automated Hugging Face Paper Summary Fetching & Categorization Workflow.json",
+    "title": "[3/3] Anomaly detection tool (crops dataset)",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 17,
+    "file_size_bytes": 12452,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Vector Database as a Big Data Analysis Tool for AI Agents [2_3 - anomaly].json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Vector Database as a Big Data Analysis Tool for AI Agents [2_3 - anomaly].json",
+    "title": "[2/3] Set up medoids (2 types) for anomaly detection (crops dataset)",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 48,
+    "file_size_bytes": 34969,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Open Deep Research - AI-Powered Autonomous Research Workflow.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Open Deep Research - AI-Powered Autonomous Research Workflow.json",
+    "title": "Open Deep Research - AI-Powered Autonomous Research Workflow",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 17,
+    "file_size_bytes": 10743,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Create a Google Analytics Data Report with AI and sent it to E-Mail and Telegram.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Create a Google Analytics Data Report with AI and sent it to E-Mail and Telegram.json",
+    "title": "Google Analytics: Weekly Report",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 14,
+    "file_size_bytes": 14971,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Autonomous AI crawler.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Autonomous AI crawler.json",
+    "title": "Autonomous AI crawler",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 38,
+    "file_size_bytes": 28621,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Extract insights & analyse YouTube comments via AI Agent chat.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Extract insights & analyse YouTube comments via AI Agent chat.json",
+    "title": "Extract insights & analyse YouTube comments via AI Agent chat",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": 29,
+    "file_size_bytes": 28091,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/AI_Research_RAG_and_Data_Analysis/Host Your Own AI Deep Research Agent with n8n, Apify and OpenAI o3.json",
+    "relative_path": "AI_Research_RAG_and_Data_Analysis/Host Your Own AI Deep Research Agent with n8n, Apify and OpenAI o3.json",
+    "title": "Host Your Own AI Deep Research Agent with n8n, Apify and OpenAI o3",
+    "category": "AI_Research_RAG_and_Data_Analysis",
+    "nodes_count": null,
+    "file_size_bytes": 150314,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Introduction to the HTTP Tool.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Introduction to the HTTP Tool.json",
+    "title": "Introduction to the HTTP Tool",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 12,
+    "file_size_bytes": 6565,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Automate Pinterest Analysis & AI-Powered Content Suggestions With Pinterest API.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Automate Pinterest Analysis & AI-Powered Content Suggestions With Pinterest API.json",
+    "title": "Automate Pinterest Analysis & AI-Powered Content Suggestions With Pinterest API",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 13,
+    "file_size_bytes": 11073,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Automate Screenshots with URLbox & Analyze them with AI.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Automate Screenshots with URLbox & Analyze them with AI.json",
+    "title": "Analyze Screenshots with AI",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 9,
+    "file_size_bytes": 4366,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/UTM Link Creator & QR Code Generator with Scheduled Google Analytics Reports.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/UTM Link Creator & QR Code Generator with Scheduled Google Analytics Reports.json",
+    "title": "UTM Link Creator & QR Code Generator with Scheduled Google Analytics Reports",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 14,
+    "file_size_bytes": 10084,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Analyze feedback and send a message on Mattermost.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Analyze feedback and send a message on Mattermost.json",
+    "title": "Analyze the sentiment of feedback and send a message on Mattermost",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 5,
+    "file_size_bytes": 2066,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Create, update, and get a profile in Humantic AI.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Create, update, and get a profile in Humantic AI.json",
+    "title": "Create, update, and get a profile in Humantic AI",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 5,
+    "file_size_bytes": 1788,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Enhance Customer Chat by Buffering Messages with Twilio and Redis.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Enhance Customer Chat by Buffering Messages with Twilio and Redis.json",
+    "title": "Enhance Customer Chat by Buffering Messages with Twilio and Redis",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 18,
+    "file_size_bytes": 10234,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Handling Appointment Leads and Follow-up With Twilio, Cal.com and AI.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Handling Appointment Leads and Follow-up With Twilio, Cal.com and AI.json",
+    "title": "Handling Appointment Leads and Follow-up With Twilio, Cal.com and AI",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 36,
+    "file_size_bytes": 44094,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Text automations using Apple Shortcuts.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Text automations using Apple Shortcuts.json",
+    "title": "Text automations using Apple Shortcuts",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 10,
+    "file_size_bytes": 10110,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Bitrix24 Chatbot Application Workflow example with Webhook Integration.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Bitrix24 Chatbot Application Workflow example with Webhook Integration.json",
+    "title": "Bitrix24 Chatbot Application Workflow example with Webhook Integration",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 13,
+    "file_size_bytes": 15956,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Siri AI Agent_ Apple Shortcuts powered voice template.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Siri AI Agent_ Apple Shortcuts powered voice template.json",
+    "title": "Siri AI Agent_ Apple Shortcuts powered voice template",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 7,
+    "file_size_bytes": 4868,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Optimize & Update Printify Title and Description Workflow.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Optimize & Update Printify Title and Description Workflow.json",
+    "title": "Printify Automation - Update Title and Description - AlexK1919",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 26,
+    "file_size_bytes": 22300,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/LINE Assistant with Google Calendar and Gmail Integration.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/LINE Assistant with Google Calendar and Gmail Integration.json",
+    "title": "LINE Assistant with Google Calendar and Gmail Integration",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 14,
+    "file_size_bytes": 10496,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/API Schema Extractor.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/API Schema Extractor.json",
+    "title": "API Schema Extractor",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 88,
+    "file_size_bytes": 73443,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Classify new bugs in Linear with OpenAI_s GPT-4 and move them to the right team.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Classify new bugs in Linear with OpenAI_s GPT-4 and move them to the right team.json",
+    "title": "Classify new bugs in Linear with OpenAI_s GPT-4 and move them to the right team",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 12,
+    "file_size_bytes": 17220,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Zoom AI Meeting Assistant creates mail summary, ClickUp tasks and follow-up call.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Zoom AI Meeting Assistant creates mail summary, ClickUp tasks and follow-up call.json",
+    "title": "Zoom AI Meeting Assistant",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 24,
+    "file_size_bytes": 20578,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Hacker News Throwback Machine - See What Was Hot on This Day, Every Year!.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Hacker News Throwback Machine - See What Was Hot on This Day, Every Year!.json",
+    "title": "Hacker News Throwback Machine - See What Was Hot on This Day, Every Year!",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 13,
+    "file_size_bytes": 8379,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Using External Workflows as Tools in n8n.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Using External Workflows as Tools in n8n.json",
+    "title": "get_a_web_page",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 4,
+    "file_size_bytes": 2462,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Obsidian Notes Read Aloud using AI_ Available as a Podcast Feed.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Obsidian Notes Read Aloud using AI_ Available as a Podcast Feed.json",
+    "title": "Obsidian Notes Read Aloud: Available as a Podcast Feed",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 23,
+    "file_size_bytes": 19744,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Visualize your SQL Agent queries with OpenAI and Quickchart.io.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Visualize your SQL Agent queries with OpenAI and Quickchart.io.json",
+    "title": "Visualize your SQL Agent queries with OpenAI and Quickchart.io",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 19,
+    "file_size_bytes": 19685,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Qualify replies from Pipedrive persons with AI.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Qualify replies from Pipedrive persons with AI.json",
+    "title": "Qualify replies from Pipedrive persons with AI",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 11,
+    "file_size_bytes": 6288,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Integrating AI with Open-Meteo API for Enhanced Weather Forecasting.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Integrating AI with Open-Meteo API for Enhanced Weather Forecasting.json",
+    "title": "Integrating AI with Open-Meteo API for Enhanced Weather Forecasting",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 12,
+    "file_size_bytes": 8418,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Monthly Spotify Track Archiving and Playlist Classification.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Monthly Spotify Track Archiving and Playlist Classification.json",
+    "title": "Monthly Spotify Track Archiving and Playlist Classification",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 37,
+    "file_size_bytes": 41883,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Automate SIEM Alert Enrichment with MITRE ATT&CK, Qdrant & Zendesk in n8n.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Automate SIEM Alert Enrichment with MITRE ATT&CK, Qdrant & Zendesk in n8n.json",
+    "title": "Automate SIEM Alert Enrichment with MITRE ATT&CK, Qdrant & Zendesk in n8n",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 26,
+    "file_size_bytes": 18190,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Analyze feedback using AWS Comprehend and send it to a Mattermost channel.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Analyze feedback using AWS Comprehend and send it to a Mattermost channel.json",
+    "title": "Analyze feedback using AWS Comprehend and send it to a Mattermost channel",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 5,
+    "file_size_bytes": 1811,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Use AI to organize your Todoist Inbox.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Use AI to organize your Todoist Inbox.json",
+    "title": "Use AI to organize your Todoist Inbox",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 12,
+    "file_size_bytes": 5799,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/KB Tool - Confluence Knowledge Base.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/KB Tool - Confluence Knowledge Base.json",
+    "title": "KB Tool - Confluence Knowledge Base",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 7,
+    "file_size_bytes": 5845,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/Automate testimonials in Strapi with n8n.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/Automate testimonials in Strapi with n8n.json",
+    "title": "Automate testimonials in Strapi with n8n",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 14,
+    "file_size_bytes": 6310,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Other_Integrations_and_Use_Cases/ChatGPT Automatic Code Review in Gitlab MR.json",
+    "relative_path": "Other_Integrations_and_Use_Cases/ChatGPT Automatic Code Review in Gitlab MR.json",
+    "title": "ChatGPT Automatic Code Review in Gitlab MR",
+    "category": "Other_Integrations_and_Use_Cases",
+    "nodes_count": 14,
+    "file_size_bytes": 8444,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/PDF_and_Document_Processing/Transcribing Bank Statements To Markdown Using Gemini Vision AI.json",
+    "relative_path": "PDF_and_Document_Processing/Transcribing Bank Statements To Markdown Using Gemini Vision AI.json",
+    "title": "Transcribing Bank Statements To Markdown Using Gemini Vision AI",
+    "category": "PDF_and_Document_Processing",
+    "nodes_count": 20,
+    "file_size_bytes": 13303,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/PDF_and_Document_Processing/Ask questions about a PDF using AI.json",
+    "relative_path": "PDF_and_Document_Processing/Ask questions about a PDF using AI.json",
+    "title": "Ask questions about a PDF using AI",
+    "category": "PDF_and_Document_Processing",
+    "nodes_count": 16,
+    "file_size_bytes": 7340,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/PDF_and_Document_Processing/Convert URL HTML to Markdown Format and Get Page Links.json",
+    "relative_path": "PDF_and_Document_Processing/Convert URL HTML to Markdown Format and Get Page Links.json",
+    "title": "Convert URL HTML to Markdown Format and Get Page Links",
+    "category": "PDF_and_Document_Processing",
+    "nodes_count": 17,
+    "file_size_bytes": 9246,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/PDF_and_Document_Processing/Chat with PDF docs using AI (quoting sources).json",
+    "relative_path": "PDF_and_Document_Processing/Chat with PDF docs using AI (quoting sources).json",
+    "title": "Chat with PDF docs using AI (quoting sources)",
+    "category": "PDF_and_Document_Processing",
+    "nodes_count": 22,
+    "file_size_bytes": 11643,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/PDF_and_Document_Processing/Extract text from PDF and image using Vertex AI (Gemini) into CSV.json",
+    "relative_path": "PDF_and_Document_Processing/Extract text from PDF and image using Vertex AI (Gemini) into CSV.json",
+    "title": "Extract text from PDF and image using Vertex AI (Gemini) into CSV",
+    "category": "PDF_and_Document_Processing",
+    "nodes_count": 16,
+    "file_size_bytes": 10236,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/PDF_and_Document_Processing/Extract data from resume and create PDF with Gotenberg.json",
+    "relative_path": "PDF_and_Document_Processing/Extract data from resume and create PDF with Gotenberg.json",
+    "title": "Extract data from resume and create PDF with Gotenberg",
+    "category": "PDF_and_Document_Processing",
+    "nodes_count": 43,
+    "file_size_bytes": 25038,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/PDF_and_Document_Processing/Invoice data extraction with LlamaParse and OpenAI.json",
+    "relative_path": "PDF_and_Document_Processing/Invoice data extraction with LlamaParse and OpenAI.json",
+    "title": "Invoice data extraction with LlamaParse and OpenAI",
+    "category": "PDF_and_Document_Processing",
+    "nodes_count": 26,
+    "file_size_bytes": 22067,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/PDF_and_Document_Processing/CV Resume PDF Parsing with Multimodal Vision AI.json",
+    "relative_path": "PDF_and_Document_Processing/CV Resume PDF Parsing with Multimodal Vision AI.json",
+    "title": "CV Resume PDF Parsing with Multimodal Vision AI",
+    "category": "PDF_and_Document_Processing",
+    "nodes_count": 13,
+    "file_size_bytes": 8721,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/PDF_and_Document_Processing/Transcribe Audio Files, Summarize with GPT-4, and Store in Notion.json",
+    "relative_path": "PDF_and_Document_Processing/Transcribe Audio Files, Summarize with GPT-4, and Store in Notion.json",
+    "title": "Whisper Transkription copy",
+    "category": "PDF_and_Document_Processing",
+    "nodes_count": 8,
+    "file_size_bytes": 6106,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/PDF_and_Document_Processing/Remove Personally Identifiable Information (PII) from CSV Files with OpenAI.json",
+    "relative_path": "PDF_and_Document_Processing/Remove Personally Identifiable Information (PII) from CSV Files with OpenAI.json",
+    "title": "Remove Personally Identifiable Information (PII) from CSV Files with OpenAI",
+    "category": "PDF_and_Document_Processing",
+    "nodes_count": 10,
+    "file_size_bytes": 7748,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/PDF_and_Document_Processing/Breakdown Documents into Study Notes using Templating MistralAI and Qdrant.json",
+    "relative_path": "PDF_and_Document_Processing/Breakdown Documents into Study Notes using Templating MistralAI and Qdrant.json",
+    "title": "Breakdown Documents into Study Notes using Templating MistralAI and Qdrant",
+    "category": "PDF_and_Document_Processing",
+    "nodes_count": 42,
+    "file_size_bytes": 24212,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/PDF_and_Document_Processing/Parse PDF with LlamaParse and save to Airtable.json",
+    "relative_path": "PDF_and_Document_Processing/Parse PDF with LlamaParse and save to Airtable.json",
+    "title": "Parse PDF with LlamaParse and save to Airtable",
+    "category": "PDF_and_Document_Processing",
+    "nodes_count": null,
+    "file_size_bytes": 14962,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/PDF_and_Document_Processing/ETL pipeline for text processing.json",
+    "relative_path": "PDF_and_Document_Processing/ETL pipeline for text processing.json",
+    "title": "ETL pipeline",
+    "category": "PDF_and_Document_Processing",
+    "nodes_count": 9,
+    "file_size_bytes": 3285,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/PDF_and_Document_Processing/Manipulate PDF with Adobe developer API.json",
+    "relative_path": "PDF_and_Document_Processing/Manipulate PDF with Adobe developer API.json",
+    "title": "Manipulate PDF with Adobe developer API",
+    "category": "PDF_and_Document_Processing",
+    "nodes_count": 20,
+    "file_size_bytes": 12624,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/PDF_and_Document_Processing/Extract license plate number from image uploaded via an n8n form.json",
+    "relative_path": "PDF_and_Document_Processing/Extract license plate number from image uploaded via an n8n form.json",
+    "title": "Image to license plate number",
+    "category": "PDF_and_Document_Processing",
+    "nodes_count": 5,
+    "file_size_bytes": 3156,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/PDF_and_Document_Processing/Prepare CSV files with GPT-4Prepare CSV files with GPT-4.json",
+    "relative_path": "PDF_and_Document_Processing/Prepare CSV files with GPT-4Prepare CSV files with GPT-4.json",
+    "title": "Prepare CSV files with GPT-4",
+    "category": "PDF_and_Document_Processing",
+    "nodes_count": 11,
+    "file_size_bytes": 10039,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/PDF_and_Document_Processing/Extract and process information directly from PDF using Claude and Gemini.json",
+    "relative_path": "PDF_and_Document_Processing/Extract and process information directly from PDF using Claude and Gemini.json",
+    "title": "Extract and process information directly from PDF using Claude and Gemini",
+    "category": "PDF_and_Document_Processing",
+    "nodes_count": 11,
+    "file_size_bytes": 7199,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/WordPress/WordPress - AI Chatbot to enhance user experience - with Supabase and OpenAI.json",
+    "relative_path": "WordPress/WordPress - AI Chatbot to enhance user experience - with Supabase and OpenAI.json",
+    "title": "RAG & GenAI App With WordPress Content",
+    "category": "WordPress",
+    "nodes_count": 53,
+    "file_size_bytes": 33890,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/WordPress/Automate Blog Creation in Brand Voice with AI.json",
+    "relative_path": "WordPress/Automate Blog Creation in Brand Voice with AI.json",
+    "title": "Automate Blog Creation in Brand Voice with AI",
+    "category": "WordPress",
+    "nodes_count": 27,
+    "file_size_bytes": 17085,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/WordPress/Write a WordPress post with AI (starting from a few keywords).json",
+    "relative_path": "WordPress/Write a WordPress post with AI (starting from a few keywords).json",
+    "title": "Write a WordPress post with AI (starting from a few keywords)",
+    "category": "WordPress",
+    "nodes_count": 37,
+    "file_size_bytes": 22040,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/WordPress/Auto-Categorize blog posts in wordpress using A.I..json",
+    "relative_path": "WordPress/Auto-Categorize blog posts in wordpress using A.I..json",
+    "title": "Auto categorize wordpress template",
+    "category": "WordPress",
+    "nodes_count": 9,
+    "file_size_bytes": 4773,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/WordPress/Automate Content Generator for WordPress with DeepSeek R1.json",
+    "relative_path": "WordPress/Automate Content Generator for WordPress with DeepSeek R1.json",
+    "title": "Automate Content Generator for WordPress with DeepSeek R1",
+    "category": "WordPress",
+    "nodes_count": 17,
+    "file_size_bytes": 12277,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/WordPress/Auto-Tag Blog Posts in WordPress with AI.json",
+    "relative_path": "WordPress/Auto-Tag Blog Posts in WordPress with AI.json",
+    "title": "Auto-Tag Blog Posts in WordPress with AI",
+    "category": "WordPress",
+    "nodes_count": 32,
+    "file_size_bytes": 16721,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Database_and_Storage/Supabase Insertion & Upsertion & Retrieval.json",
+    "relative_path": "Database_and_Storage/Supabase Insertion & Upsertion & Retrieval.json",
+    "title": "Supabase Insertion & Upsertion & Retrieval",
+    "category": "Database_and_Storage",
+    "nodes_count": 21,
+    "file_size_bytes": 11389,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Database_and_Storage/Talk to your SQLite database with a LangChain AI Agent.json",
+    "relative_path": "Database_and_Storage/Talk to your SQLite database with a LangChain AI Agent.json",
+    "title": "SQL agent with memory",
+    "category": "Database_and_Storage",
+    "nodes_count": 13,
+    "file_size_bytes": 5713,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Database_and_Storage/Generate SQL queries from schema only - AI-powered.json",
+    "relative_path": "Database_and_Storage/Generate SQL queries from schema only - AI-powered.json",
+    "title": "Generate SQL queries from schema only - AI-powered",
+    "category": "Database_and_Storage",
+    "nodes_count": 29,
+    "file_size_bytes": 16702,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Database_and_Storage/MongoDB AI Agent - Intelligent Movie Recommendations.json",
+    "relative_path": "Database_and_Storage/MongoDB AI Agent - Intelligent Movie Recommendations.json",
+    "title": "MongoDB Agent",
+    "category": "Database_and_Storage",
+    "nodes_count": 8,
+    "file_size_bytes": 5427,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Database_and_Storage/Chat with Postgresql Database.json",
+    "relative_path": "Database_and_Storage/Chat with Postgresql Database.json",
+    "title": "Chat with Postgresql Database",
+    "category": "Database_and_Storage",
+    "nodes_count": 11,
+    "file_size_bytes": 7006,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI_ Ask questions about any data source (using the n8n workflow retriever).json",
+    "relative_path": "OpenAI_and_LLMs/AI_ Ask questions about any data source (using the n8n workflow retriever).json",
+    "title": "LangChain - Example - Workflow Retriever",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 7,
+    "file_size_bytes": 2981,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI-Powered Email Automation for Business_ Summarize & Respond with RAG.json",
+    "relative_path": "OpenAI_and_LLMs/AI-Powered Email Automation for Business_ Summarize & Respond with RAG.json",
+    "title": "Email AI Auto-responder. Summerize and send email",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 26,
+    "file_size_bytes": 23659,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Chat Assistant (OpenAI assistant) with Postgres Memory And API Calling Capabalities.json",
+    "relative_path": "OpenAI_and_LLMs/Chat Assistant (OpenAI assistant) with Postgres Memory And API Calling Capabalities.json",
+    "title": "modelo do chatbot",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 12,
+    "file_size_bytes": 9881,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Transform Image to Lego Style Using Line and Dall-E.json",
+    "relative_path": "OpenAI_and_LLMs/Transform Image to Lego Style Using Line and Dall-E.json",
+    "title": "Transform Image to Lego Style Using Line and Dall-E",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 5,
+    "file_size_bytes": 3535,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI Automated HR Workflow for CV Analysis and Candidate Evaluation.json",
+    "relative_path": "OpenAI_and_LLMs/AI Automated HR Workflow for CV Analysis and Candidate Evaluation.json",
+    "title": "HR-focused automation pipeline with AI",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 18,
+    "file_size_bytes": 14438,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/🔥📈🤖 AI Agent for n8n Creators Leaderboard - Find Popular Workflows.json",
+    "relative_path": "OpenAI_and_LLMs/🔥📈🤖 AI Agent for n8n Creators Leaderboard - Find Popular Workflows.json",
+    "title": "🔥📈🤖 AI Agent for n8n Creators Leaderboard - Find Popular Workflows",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 43,
+    "file_size_bytes": 27674,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Dynamically generate a webpage from user request using OpenAI Structured Output.json",
+    "relative_path": "OpenAI_and_LLMs/Dynamically generate a webpage from user request using OpenAI Structured Output.json",
+    "title": "Dynamically generate HTML page from user request using OpenAI Structured Output",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 7,
+    "file_size_bytes": 7929,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/🐋DeepSeek V3 Chat & R1 Reasoning Quick Start.json",
+    "relative_path": "OpenAI_and_LLMs/🐋DeepSeek V3 Chat & R1 Reasoning Quick Start.json",
+    "title": "🐋DeepSeek V3 Chat & R1 Reasoning Quick Start",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 15,
+    "file_size_bytes": 7566,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Daily meetings summarization with Gemini AI.json",
+    "relative_path": "OpenAI_and_LLMs/Daily meetings summarization with Gemini AI.json",
+    "title": "Daily meetings summarization with Gemini AI",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 9,
+    "file_size_bytes": 5172,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Generate Text-to-Speech Using Elevenlabs via API.json",
+    "relative_path": "OpenAI_and_LLMs/Generate Text-to-Speech Using Elevenlabs via API.json",
+    "title": "Generate Text-to-Speech Using Elevenlabs via API",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 6,
+    "file_size_bytes": 3927,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI Data Extraction with Dynamic Prompts and Airtable.json",
+    "relative_path": "OpenAI_and_LLMs/AI Data Extraction with Dynamic Prompts and Airtable.json",
+    "title": "AI Data Extraction with Dynamic Prompts and Airtable",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 51,
+    "file_size_bytes": 35914,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/📚 Auto-generate documentation for n8n workflows with GPT and Docsify.json",
+    "relative_path": "OpenAI_and_LLMs/📚 Auto-generate documentation for n8n workflows with GPT and Docsify.json",
+    "title": "Docsify example",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 60,
+    "file_size_bytes": 45737,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Daily Podcast Summary.json",
+    "relative_path": "OpenAI_and_LLMs/Daily Podcast Summary.json",
+    "title": "Daily Podcast Summary",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 21,
+    "file_size_bytes": 13164,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Actioning Your Meeting Next Steps using Transcripts and AI.json",
+    "relative_path": "OpenAI_and_LLMs/Actioning Your Meeting Next Steps using Transcripts and AI.json",
+    "title": "Actioning Your Meeting Next Steps using Transcripts and AI",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 28,
+    "file_size_bytes": 18436,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI-powered WooCommerce Support-Agent.json",
+    "relative_path": "OpenAI_and_LLMs/AI-powered WooCommerce Support-Agent.json",
+    "title": "AI-powered WooCommerce Support-Agent",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 40,
+    "file_size_bytes": 25852,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Ask a human for help when the AI doesn_t know the answer.json",
+    "relative_path": "OpenAI_and_LLMs/Ask a human for help when the AI doesn_t know the answer.json",
+    "title": "Ask a human",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 17,
+    "file_size_bytes": 7094,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI-Generated Summary Block for WordPress Posts.json",
+    "relative_path": "OpenAI_and_LLMs/AI-Generated Summary Block for WordPress Posts.json",
+    "title": "AI-Generated Summary Block for WordPress Posts - with OpenAI, WordPress, Google Sheets & Slack",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 32,
+    "file_size_bytes": 34600,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/🤖🧑_💻 AI Agent for Top n8n Creators Leaderboard Reporting.json",
+    "relative_path": "OpenAI_and_LLMs/🤖🧑_💻 AI Agent for Top n8n Creators Leaderboard Reporting.json",
+    "title": "🤖🧑‍💻 AI Agent for Top n8n Creators Leaderboard Reporting",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 49,
+    "file_size_bytes": 26823,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Custom LangChain agent written in JavaScript.json",
+    "relative_path": "OpenAI_and_LLMs/Custom LangChain agent written in JavaScript.json",
+    "title": "LangChain - Example - Code Node Example",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 10,
+    "file_size_bytes": 4524,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Automate Your RFP Process with OpenAI Assistants.json",
+    "relative_path": "OpenAI_and_LLMs/Automate Your RFP Process with OpenAI Assistants.json",
+    "title": "Automate Your RFP Process with OpenAI Assistants",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 23,
+    "file_size_bytes": 14297,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI Voice Chat using Webhook, Memory Manager, OpenAI, Google Gemini & ElevenLabs.json",
+    "relative_path": "OpenAI_and_LLMs/AI Voice Chat using Webhook, Memory Manager, OpenAI, Google Gemini & ElevenLabs.json",
+    "title": "AI Voice Chat using Webhook, Memory Manager, OpenAI, Google Gemini & ElevenLabs",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 15,
+    "file_size_bytes": 8267,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Fetch Dynamic Prompts from GitHub and Auto-Populate n8n Expressions in Prompt.json",
+    "relative_path": "OpenAI_and_LLMs/Fetch Dynamic Prompts from GitHub and Auto-Populate n8n Expressions in Prompt.json",
+    "title": "Load Prompts from Github Repo and auto populate n8n expressions",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 17,
+    "file_size_bytes": 9656,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Chat with OpenAI Assistant (by adding a memory).json",
+    "relative_path": "OpenAI_and_LLMs/Chat with OpenAI Assistant (by adding a memory).json",
+    "title": "Chat with OpenAI Assistant (by adding a memory)",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 14,
+    "file_size_bytes": 5818,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/🔐🦙🤖 Private & Local Ollama Self-Hosted AI Assistant.json",
+    "relative_path": "OpenAI_and_LLMs/🔐🦙🤖 Private & Local Ollama Self-Hosted AI Assistant.json",
+    "title": "🗨️Ollama Chat",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 14,
+    "file_size_bytes": 8206,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Query n8n Credentials with AI SQL Agent.json",
+    "relative_path": "OpenAI_and_LLMs/Query n8n Credentials with AI SQL Agent.json",
+    "title": "Query n8n Credentials with AI SQL Agent",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 13,
+    "file_size_bytes": 7821,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Use OpenRouter in n8n versions _1.78.json",
+    "relative_path": "OpenAI_and_LLMs/Use OpenRouter in n8n versions _1.78.json",
+    "title": "Use any LLM-Model via OpenRouter",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 8,
+    "file_size_bytes": 3797,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI-Powered Social Media Amplifier.json",
+    "relative_path": "OpenAI_and_LLMs/AI-Powered Social Media Amplifier.json",
+    "title": "Social Media AI Agent - Telegram",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 26,
+    "file_size_bytes": 25469,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI agent chat.json",
+    "relative_path": "OpenAI_and_LLMs/AI agent chat.json",
+    "title": "AI agent chat",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 5,
+    "file_size_bytes": 1945,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI Agent _ Google calendar assistant using OpenAI.json",
+    "relative_path": "OpenAI_and_LLMs/AI Agent _ Google calendar assistant using OpenAI.json",
+    "title": "AI Agent : Google calendar assistant using OpenAI",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 13,
+    "file_size_bytes": 11965,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Prompt-based Object Detection with Gemini 2.0.json",
+    "relative_path": "OpenAI_and_LLMs/Prompt-based Object Detection with Gemini 2.0.json",
+    "title": "Prompt-based Object Detection with Gemini 2.0",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 14,
+    "file_size_bytes": 11417,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Proxmox AI Agent with n8n and Generative AI Integration.json",
+    "relative_path": "OpenAI_and_LLMs/Proxmox AI Agent with n8n and Generative AI Integration.json",
+    "title": "Proxmox AI Agent with n8n and Generative AI Integration",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 35,
+    "file_size_bytes": 28989,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/lemlist __ GPT-3_ Supercharge your sales workflows.json",
+    "relative_path": "OpenAI_and_LLMs/lemlist __ GPT-3_ Supercharge your sales workflows.json",
+    "title": "lemlist __ GPT-3_ Supercharge your sales workflows",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": null,
+    "file_size_bytes": 7024,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI web researcher for sales.json",
+    "relative_path": "OpenAI_and_LLMs/AI web researcher for sales.json",
+    "title": "AI web researcher for sales",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 22,
+    "file_size_bytes": 20242,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Force AI to use a specific output format.json",
+    "relative_path": "OpenAI_and_LLMs/Force AI to use a specific output format.json",
+    "title": "[AI/LangChain] Output Parser 4",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 11,
+    "file_size_bytes": 4509,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Personal Shopper Chatbot for WooCommerce with RAG using Google Drive and openAI.json",
+    "relative_path": "OpenAI_and_LLMs/Personal Shopper Chatbot for WooCommerce with RAG using Google Drive and openAI.json",
+    "title": "OpenAI Personal Shopper with RAG and WooCommerce",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 25,
+    "file_size_bytes": 14398,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI Powered Web Scraping with Jina, Google Sheets and OpenAI _ the EASY way.json",
+    "relative_path": "OpenAI_and_LLMs/AI Powered Web Scraping with Jina, Google Sheets and OpenAI _ the EASY way.json",
+    "title": "AI Powered Web Scraping with Jina, Google Sheets and OpenAI _ the EASY way",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 7,
+    "file_size_bytes": 5365,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI Agent To Chat With Files In Supabase Storage.json",
+    "relative_path": "OpenAI_and_LLMs/AI Agent To Chat With Files In Supabase Storage.json",
+    "title": "AI Agent To Chat With Files In Supabase Storage",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 33,
+    "file_size_bytes": 17910,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI Agent with Ollama for current weather and wiki.json",
+    "relative_path": "OpenAI_and_LLMs/AI Agent with Ollama for current weather and wiki.json",
+    "title": "AI Agent with Ollama for current weather and wiki",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 10,
+    "file_size_bytes": 4335,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Extract personal data with self-hosted LLM Mistral NeMo.json",
+    "relative_path": "OpenAI_and_LLMs/Extract personal data with self-hosted LLM Mistral NeMo.json",
+    "title": "Extract personal data with a self-hosted LLM Mistral NeMo",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 13,
+    "file_size_bytes": 6489,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI Agent to chat with you Search Console Data, using OpenAI and Postgres.json",
+    "relative_path": "OpenAI_and_LLMs/AI Agent to chat with you Search Console Data, using OpenAI and Postgres.json",
+    "title": "AI Agent to chat with you Search Console Data, using OpenAI and Postgres",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 30,
+    "file_size_bytes": 24138,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI Fitness Coach Strava Data Analysis and Personalized Training Insights.json",
+    "relative_path": "OpenAI_and_LLMs/AI Fitness Coach Strava Data Analysis and Personalized Training Insights.json",
+    "title": "AI Fitness Coach Strava Data Analysis and Personalized Training Insights",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 15,
+    "file_size_bytes": 16542,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/OpenAI assistant with custom tools.json",
+    "relative_path": "OpenAI_and_LLMs/OpenAI assistant with custom tools.json",
+    "title": "OpenAI Assistant with custom n8n tools",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 14,
+    "file_size_bytes": 7905,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Suggest meeting slots using AI.json",
+    "relative_path": "OpenAI_and_LLMs/Suggest meeting slots using AI.json",
+    "title": "Calendar_scheduling",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 21,
+    "file_size_bytes": 10997,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI Data Extraction with Dynamic Prompts and Baserow.json",
+    "relative_path": "OpenAI_and_LLMs/AI Data Extraction with Dynamic Prompts and Baserow.json",
+    "title": "AI Data Extraction with Dynamic Prompts and Baserow",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 45,
+    "file_size_bytes": 28924,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI Voice Chatbot with ElevenLabs & OpenAI for Customer Service and Restaurants.json",
+    "relative_path": "OpenAI_and_LLMs/AI Voice Chatbot with ElevenLabs & OpenAI for Customer Service and Restaurants.json",
+    "title": "Voice RAG Chatbot with ElevenLabs and OpenAI",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 23,
+    "file_size_bytes": 12021,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/OpenAI Assistant workflow_ upload file, create an Assistant, chat with it!.json",
+    "relative_path": "OpenAI_and_LLMs/OpenAI Assistant workflow_ upload file, create an Assistant, chat with it!.json",
+    "title": "OpenAI Assistant workflow: uploa file, create an Assistant, chat with it!",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 10,
+    "file_size_bytes": 6014,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Chat with local LLMs using n8n and Ollama.json",
+    "relative_path": "OpenAI_and_LLMs/Chat with local LLMs using n8n and Ollama.json",
+    "title": "Chat with local LLMs using n8n and Ollama",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 5,
+    "file_size_bytes": 2970,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Easy Image Captioning with Gemini 1.5 Pro.json",
+    "relative_path": "OpenAI_and_LLMs/Easy Image Captioning with Gemini 1.5 Pro.json",
+    "title": "Easy Image Captioning with Gemini 1.5 Pro",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 16,
+    "file_size_bytes": 10162,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Configure your own Image Creation API Using OpenAI DALLE-3.json",
+    "relative_path": "OpenAI_and_LLMs/Configure your own Image Creation API Using OpenAI DALLE-3.json",
+    "title": "Image Generation API",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 7,
+    "file_size_bytes": 3061,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI Social Media Caption Creator creates social media post captions in Airtable.json",
+    "relative_path": "OpenAI_and_LLMs/AI Social Media Caption Creator creates social media post captions in Airtable.json",
+    "title": "AI Social Media Caption Creator",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 10,
+    "file_size_bytes": 21382,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI-Driven Lead Management and Inquiry Automation with ERPNext & n8n.json",
+    "relative_path": "OpenAI_and_LLMs/AI-Driven Lead Management and Inquiry Automation with ERPNext & n8n.json",
+    "title": "AI-Driven Lead Management and Inquiry Automation with ERPNext & n8n",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": null,
+    "file_size_bytes": 21457,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI-Powered RAG Workflow For Stock Earnings Report Analysis.json",
+    "relative_path": "OpenAI_and_LLMs/AI-Powered RAG Workflow For Stock Earnings Report Analysis.json",
+    "title": "RAG Workflow For Stock Earnings Report Analysis",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 18,
+    "file_size_bytes": 17500,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI Youtube Trend Finder Based On Niche.json",
+    "relative_path": "OpenAI_and_LLMs/AI Youtube Trend Finder Based On Niche.json",
+    "title": "Complete Youtube",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 15,
+    "file_size_bytes": 11743,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/OpenAI examples_ ChatGPT, DALLE-2, Whisper-1 – 5-in-1.json",
+    "relative_path": "OpenAI_and_LLMs/OpenAI examples_ ChatGPT, DALLE-2, Whisper-1 – 5-in-1.json",
+    "title": "OpenAI-model-examples",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 27,
+    "file_size_bytes": 15320,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Summarize YouTube Videos from Transcript.json",
+    "relative_path": "OpenAI_and_LLMs/Summarize YouTube Videos from Transcript.json",
+    "title": "Summarize YouTube Videos from Transcript",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 10,
+    "file_size_bytes": 4277,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Flux AI Image Generator.json",
+    "relative_path": "OpenAI_and_LLMs/Flux AI Image Generator.json",
+    "title": "Flux AI Image Generator",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 19,
+    "file_size_bytes": 17915,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI chat with any data source (using the n8n workflow tool).json",
+    "relative_path": "OpenAI_and_LLMs/AI chat with any data source (using the n8n workflow tool).json",
+    "title": "AI chat with any data source (using the n8n workflow tool)",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 12,
+    "file_size_bytes": 4736,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/🚀 Local Multi-LLM Testing & Performance Tracker.json",
+    "relative_path": "OpenAI_and_LLMs/🚀 Local Multi-LLM Testing & Performance Tracker.json",
+    "title": "Testing Mulitple Local LLM with LM Studio",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 21,
+    "file_size_bytes": 19227,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Automate Customer Support Issue Resolution using AI Text Classifier.json",
+    "relative_path": "OpenAI_and_LLMs/Automate Customer Support Issue Resolution using AI Text Classifier.json",
+    "title": "Automate Customer Support Issue Resolution using AI Text Classifier",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 36,
+    "file_size_bytes": 28228,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Translate audio using AI.json",
+    "relative_path": "OpenAI_and_LLMs/Translate audio using AI.json",
+    "title": "Translate audio using AI",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 12,
+    "file_size_bytes": 7430,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI agent that can scrape webpages.json",
+    "relative_path": "OpenAI_and_LLMs/AI agent that can scrape webpages.json",
+    "title": "Agent with custom HTTP Request",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 20,
+    "file_size_bytes": 11723,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI-Powered Candidate Shortlisting Automation for ERPNext.json",
+    "relative_path": "OpenAI_and_LLMs/AI-Powered Candidate Shortlisting Automation for ERPNext.json",
+    "title": "AI-Powered Candidate Shortlisting Automation for ERPNext",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 39,
+    "file_size_bytes": 24251,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI Crew to Automate Fundamental Stock Analysis - Q&A Workflow.json",
+    "relative_path": "OpenAI_and_LLMs/AI Crew to Automate Fundamental Stock Analysis - Q&A Workflow.json",
+    "title": "Stock Q&A Workflow",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 17,
+    "file_size_bytes": 7668,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Narrating over a Video using Multimodal AI.json",
+    "relative_path": "OpenAI_and_LLMs/Narrating over a Video using Multimodal AI.json",
+    "title": "Narrating over a Video using Multimodal AI",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 21,
+    "file_size_bytes": 15883,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Detect hallucinations using specialised Ollama model bespoke-minicheck.json",
+    "relative_path": "OpenAI_and_LLMs/Detect hallucinations using specialised Ollama model bespoke-minicheck.json",
+    "title": "Detect hallucinations using specialised Ollama model bespoke-minicheck",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 18,
+    "file_size_bytes": 13099,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI chatbot that can search the web.json",
+    "relative_path": "OpenAI_and_LLMs/AI chatbot that can search the web.json",
+    "title": "AI chatbot that can search the web",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 9,
+    "file_size_bytes": 3079,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Convert text to speech with OpenAI.json",
+    "relative_path": "OpenAI_and_LLMs/Convert text to speech with OpenAI.json",
+    "title": "Text to Speech (OpenAI)",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 8,
+    "file_size_bytes": 4005,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI Agent for realtime insights on meetings.json",
+    "relative_path": "OpenAI_and_LLMs/AI Agent for realtime insights on meetings.json",
+    "title": "AI Agent for realtime insights on meetings",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 19,
+    "file_size_bytes": 17217,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI Customer feedback sentiment analysis.json",
+    "relative_path": "OpenAI_and_LLMs/AI Customer feedback sentiment analysis.json",
+    "title": "AI Customer feedback sentiment analysis",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 9,
+    "file_size_bytes": 6590,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Organise Your Local File Directories With AI.json",
+    "relative_path": "OpenAI_and_LLMs/Organise Your Local File Directories With AI.json",
+    "title": "Organise Your Local File Directories With AI",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 16,
+    "file_size_bytes": 10485,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Enrich FAQ sections on your website pages at scale with AI.json",
+    "relative_path": "OpenAI_and_LLMs/Enrich FAQ sections on your website pages at scale with AI.json",
+    "title": "Enrich FAQ sections on your website pages at scale with AI",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 36,
+    "file_size_bytes": 32816,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Create a Branded AI-Powered Website Chatbot.json",
+    "relative_path": "OpenAI_and_LLMs/Create a Branded AI-Powered Website Chatbot.json",
+    "title": "Create a Branded AI-Powered Website Chatbot",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 24,
+    "file_size_bytes": 27600,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/⚡AI-Powered YouTube Video Summarization & Analysis.json",
+    "relative_path": "OpenAI_and_LLMs/⚡AI-Powered YouTube Video Summarization & Analysis.json",
+    "title": "⚡AI-Powered YouTube Video Summarization & Analysis",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 12,
+    "file_size_bytes": 6488,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/🎨 Interactive Image Editor with FLUX.1 Fill Tool for Inpainting.json",
+    "relative_path": "OpenAI_and_LLMs/🎨 Interactive Image Editor with FLUX.1 Fill Tool for Inpainting.json",
+    "title": "FLUX-fill standalone",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 18,
+    "file_size_bytes": 13001,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Generate audio from text using OpenAI and Webhook _ Text to Speech Workflow.json",
+    "relative_path": "OpenAI_and_LLMs/Generate audio from text using OpenAI and Webhook _ Text to Speech Workflow.json",
+    "title": "Generate audio from text using OpenAI - text-to-speech Workflow",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 5,
+    "file_size_bytes": 2905,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI_ Summarize podcast episode and enhance using Wikipedia.json",
+    "relative_path": "OpenAI_and_LLMs/AI_ Summarize podcast episode and enhance using Wikipedia.json",
+    "title": "Podcast Digest",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 19,
+    "file_size_bytes": 38201,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/AI Agent to chat with Supabase_PostgreSQL DB.json",
+    "relative_path": "OpenAI_and_LLMs/AI Agent to chat with Supabase_PostgreSQL DB.json",
+    "title": "AI Agent to chat with Supabase_PostgreSQL DB",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 11,
+    "file_size_bytes": 7548,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Automate Image Validation Tasks using AI Vision.json",
+    "relative_path": "OpenAI_and_LLMs/Automate Image Validation Tasks using AI Vision.json",
+    "title": "Automate Image Validation Tasks using AI Vision",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 11,
+    "file_size_bytes": 8817,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Generate 9_16 Images from Content and Brand Guidelines.json",
+    "relative_path": "OpenAI_and_LLMs/Generate 9_16 Images from Content and Brand Guidelines.json",
+    "title": "Content to 9:16 Aspect Image Generator v1",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 39,
+    "file_size_bytes": 43027,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Advanced AI Demo (Presented at AI Developers #14 meetup).json",
+    "relative_path": "OpenAI_and_LLMs/Advanced AI Demo (Presented at AI Developers #14 meetup).json",
+    "title": "Advanced AI Demo (Presented at AI Developers #14 meetup)",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 39,
+    "file_size_bytes": 18988,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/OpenAI_and_LLMs/Generating Image Embeddings via Textual Summarisation.json",
+    "relative_path": "OpenAI_and_LLMs/Generating Image Embeddings via Textual Summarisation.json",
+    "title": "Generating Image Embeddings via Textual Summarisation",
+    "category": "OpenAI_and_LLMs",
+    "nodes_count": 22,
+    "file_size_bytes": 12048,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Notion/Notion AI Assistant Generator.json",
+    "relative_path": "Notion/Notion AI Assistant Generator.json",
+    "title": "Notion AI Assistant Generator",
+    "category": "Notion",
+    "nodes_count": 24,
+    "file_size_bytes": 25747,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Notion/Turn Emails into AI-Enhanced Tasks in Notion (Multi-User Support) with Gmail, Airtable and Softr.json",
+    "relative_path": "Notion/Turn Emails into AI-Enhanced Tasks in Notion (Multi-User Support) with Gmail, Airtable and Softr.json",
+    "title": "mails2notion V2",
+    "category": "Notion",
+    "nodes_count": 38,
+    "file_size_bytes": 25382,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Notion/Upsert huge documents in a vector store with Supabase and Notion.json",
+    "relative_path": "Notion/Upsert huge documents in a vector store with Supabase and Notion.json",
+    "title": "RAG on living data",
+    "category": "Notion",
+    "nodes_count": 34,
+    "file_size_bytes": 15045,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Notion/Analyse papers from Hugging Face with AI and store them in Notion.json",
+    "relative_path": "Notion/Analyse papers from Hugging Face with AI and store them in Notion.json",
+    "title": "Hugging Face to Notion",
+    "category": "Notion",
+    "nodes_count": 11,
+    "file_size_bytes": 9419,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Notion/Add positive feedback messages to a table in Notion.json",
+    "relative_path": "Notion/Add positive feedback messages to a table in Notion.json",
+    "title": "Add positive feedback messages to a table in Notion",
+    "category": "Notion",
+    "nodes_count": 6,
+    "file_size_bytes": 2873,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Notion/Automate LinkedIn Outreach with Notion and OpenAI.json",
+    "relative_path": "Notion/Automate LinkedIn Outreach with Notion and OpenAI.json",
+    "title": "Automate LinkedIn Posts with AI",
+    "category": "Notion",
+    "nodes_count": 11,
+    "file_size_bytes": 6722,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Notion/Store Notion_s Pages as Vector Documents into Supabase with OpenAI.json",
+    "relative_path": "Notion/Store Notion_s Pages as Vector Documents into Supabase with OpenAI.json",
+    "title": "Store Notion's Pages as Vector Documents into Supabase with OpenAI",
+    "category": "Notion",
+    "nodes_count": 9,
+    "file_size_bytes": 6920,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Notion/Automate Competitor Research with Exa.ai, Notion and AI Agents.json",
+    "relative_path": "Notion/Automate Competitor Research with Exa.ai, Notion and AI Agents.json",
+    "title": "Automate Competitor Research with Exa.ai, Notion and AI Agents",
+    "category": "Notion",
+    "nodes_count": null,
+    "file_size_bytes": 36620,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Notion/Notion to Pinecone Vector Store Integration.json",
+    "relative_path": "Notion/Notion to Pinecone Vector Store Integration.json",
+    "title": "Prod: Notion to Vector Store - Dimension 768",
+    "category": "Notion",
+    "nodes_count": 8,
+    "file_size_bytes": 5467,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Notion/Notion knowledge base AI assistant.json",
+    "relative_path": "Notion/Notion knowledge base AI assistant.json",
+    "title": "Notion knowledge base AI assistant",
+    "category": "Notion",
+    "nodes_count": 12,
+    "file_size_bytes": 10276,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Slack/Enhance Security Operations with the Qualys Slack Shortcut Bot!.json",
+    "relative_path": "Slack/Enhance Security Operations with the Qualys Slack Shortcut Bot!.json",
+    "title": "Enhance Security Operations with the Qualys Slack Shortcut Bot!",
+    "category": "Slack",
+    "nodes_count": 23,
+    "file_size_bytes": 23948,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Slack/Enrich Pipedrive_s Organization Data with OpenAI GPT-4o & Notify it in Slack.json",
+    "relative_path": "Slack/Enrich Pipedrive_s Organization Data with OpenAI GPT-4o & Notify it in Slack.json",
+    "title": "piepdrive-test",
+    "category": "Slack",
+    "nodes_count": 8,
+    "file_size_bytes": 10543,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Slack/Slack slash commands AI Chat Bot.json",
+    "relative_path": "Slack/Slack slash commands AI Chat Bot.json",
+    "title": "My workflow 6",
+    "category": "Slack",
+    "nodes_count": 11,
+    "file_size_bytes": 6166,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Slack/Venafi Cloud Slack Cert Bot.json",
+    "relative_path": "Slack/Venafi Cloud Slack Cert Bot.json",
+    "title": "Venafi Cloud Slack Cert Bot",
+    "category": "Slack",
+    "nodes_count": 38,
+    "file_size_bytes": 39701,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Slack/Customer Support Channel and Ticketing System with Slack and Linear.json",
+    "relative_path": "Slack/Customer Support Channel and Ticketing System with Slack and Linear.json",
+    "title": "Customer Support Channel and Ticketing System with Slack and Linear",
+    "category": "Slack",
+    "nodes_count": 19,
+    "file_size_bytes": 11640,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Slack/Sentiment Analysis Tracking on Support Issues with Linear and Slack.json",
+    "relative_path": "Slack/Sentiment Analysis Tracking on Support Issues with Linear and Slack.json",
+    "title": "Sentiment Analysis Tracking on Support Issues with Linear and Slack",
+    "category": "Slack",
+    "nodes_count": 19,
+    "file_size_bytes": 17943,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Slack/IT Ops AI SlackBot Workflow - Chat with your knowledge base.json",
+    "relative_path": "Slack/IT Ops AI SlackBot Workflow - Chat with your knowledge base.json",
+    "title": "IT Ops AI SlackBot Workflow - Chat with your knowledge base",
+    "category": "Slack",
+    "nodes_count": 20,
+    "file_size_bytes": 16494,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Slack/Creating a AI Slack Bot with Google Gemini.json",
+    "relative_path": "Slack/Creating a AI Slack Bot with Google Gemini.json",
+    "title": "Creating a AI Slack Bot with Google Gemini",
+    "category": "Slack",
+    "nodes_count": 10,
+    "file_size_bytes": 5077,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/Slack/AI-Powered Information Monitoring with OpenAI, Google Sheets, Jina AI and Slack.json",
+    "relative_path": "Slack/AI-Powered Information Monitoring with OpenAI, Google Sheets, Jina AI and Slack.json",
+    "title": "AI-Powered Information Monitoring with OpenAI, Google Sheets, Jina AI and Slack",
+    "category": "Slack",
+    "nodes_count": 31,
+    "file_size_bytes": 34644,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/WhatsApp/Complete business WhatsApp AI-Powered RAG Chatbot using OpenAI.json",
+    "relative_path": "WhatsApp/Complete business WhatsApp AI-Powered RAG Chatbot using OpenAI.json",
+    "title": "Business WhatsApp AI RAG Chatbot",
+    "category": "WhatsApp",
+    "nodes_count": 24,
+    "file_size_bytes": 15334,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/WhatsApp/Respond to WhatsApp Messages with AI Like a Pro!.json",
+    "relative_path": "WhatsApp/Respond to WhatsApp Messages with AI Like a Pro!.json",
+    "title": "Respond to WhatsApp Messages with AI Like a Pro!",
+    "category": "WhatsApp",
+    "nodes_count": 35,
+    "file_size_bytes": 21746,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/WhatsApp/Building Your First WhatsApp Chatbot.json",
+    "relative_path": "WhatsApp/Building Your First WhatsApp Chatbot.json",
+    "title": "Building Your First WhatsApp Chatbot",
+    "category": "WhatsApp",
+    "nodes_count": 28,
+    "file_size_bytes": 16598,
+    "modified_iso": "2025-09-25T07:10:19"
+  },
+  {
+    "absolute_path": "/workspace/WhatsApp/Automate Sales Meeting Prep with AI & APIFY Sent To WhatsApp.json",
+    "relative_path": "WhatsApp/Automate Sales Meeting Prep with AI & APIFY Sent To WhatsApp.json",
+    "title": "Automate Sales Meeting Prep with AI & APIFY Sent To WhatsApp",
+    "category": "WhatsApp",
+    "nodes_count": 61,
+    "file_size_bytes": 43242,
+    "modified_iso": "2025-09-25T07:10:19"
+  }
+]
