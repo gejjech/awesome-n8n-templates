@@ -1,0 +1,285 @@
+/workspace/AI product imagines.json
+/workspace/HR_and_Recruitment/HR & IT Helpdesk Chatbot with Audio Transcription.json
+/workspace/HR_and_Recruitment/HR Job Posting and Evaluation with AI.json
+/workspace/HR_and_Recruitment/CV Screening with OpenAI.json
+/workspace/HR_and_Recruitment/BambooHR AI-Powered Company Policies and Benefits Chatbot.json
+/workspace/Forms_and_Surveys/Email Subscription Service with n8n Forms, Airtable and AI.json
+/workspace/Forms_and_Surveys/Conversational Interviews with AI Agents and n8n Forms.json
+/workspace/Forms_and_Surveys/Qualifying Appointment Requests with AI & n8n Forms.json
+/workspace/Airtable/Get Airtable data via AI and Obsidian Notes.json
+/workspace/Airtable/Handling Job Application Submissions with AI and n8n Forms.json
+/workspace/Airtable/AI Agent to chat with Airtable and analyze data.json
+/workspace/Airtable/AI Agent for project management and meetings with Airtable and Fireflies.json
+/workspace/Airtable/vAssistant for Hubspot Chat using OpenAi and Airtable.json
+/workspace/Other/ALL_unique_nodes.json
+/workspace/Discord/Discord AI-powered bot.json
+/workspace/Discord/Send daily translated Calvin and Hobbes Comics to Discord.json
+/workspace/Discord/Share YouTube Videos with AI Summaries on Discord.json
+/workspace/Instagram_Twitter_Social_Media/Twitter Virtual AI Influencer.json
+/workspace/Instagram_Twitter_Social_Media/Social Media Analysis and Automated Email Generation.json
+/workspace/Instagram_Twitter_Social_Media/Generate Instagram Content from Top Trends with AI Image Generation.json
+/workspace/Instagram_Twitter_Social_Media/Speed Up Social Media Banners With BannerBear.com.json
+/workspace/Instagram_Twitter_Social_Media/Create dynamic Twitter profile banner.json
+/workspace/Instagram_Twitter_Social_Media/Post New YouTube Videos to X.json
+/workspace/Instagram_Twitter_Social_Media/AI agent for Instagram DM_inbox. Manychat + Open AI integration.json
+/workspace/Instagram_Twitter_Social_Media/Reddit AI digest.json
+/workspace/Instagram_Twitter_Social_Media/OpenAI-powered tweet generator.json
+/workspace/Instagram_Twitter_Social_Media/Update Twitter banner using HTTP request.json
+/workspace/Gmail_and_Email_Automation/Auto Categorise Outlook Emails with AI.json
+/workspace/Gmail_and_Email_Automation/Summarize your emails with A.I. (via Openrouter) and send to Line messenger.json
+/workspace/Gmail_and_Email_Automation/Email Summary Agent.json
+/workspace/Gmail_and_Email_Automation/Compose reply draft in Gmail with OpenAI Assistant.json
+/workspace/Gmail_and_Email_Automation/📈 Receive Daily Market News from FT.com to your Microsoft outlook inbox.json
+/workspace/Gmail_and_Email_Automation/A Very Simple _Human in the Loop_ Email Response System Using AI and IMAP.json
+/workspace/Gmail_and_Email_Automation/Analyze Suspicious Email Contents with ChatGPT Vision.json
+/workspace/Gmail_and_Email_Automation/Basic Automatic Gmail Email Labelling with OpenAI and Gmail API.json
+/workspace/Gmail_and_Email_Automation/create e-mail responses with fastmail and OpenAI.json
+/workspace/Gmail_and_Email_Automation/Send specific PDF attachments from Gmail to Google Drive using OpenAI.json
+/workspace/Gmail_and_Email_Automation/Classify lemlist replies using OpenAI and automate reply handling.json
+/workspace/Gmail_and_Email_Automation/Microsoft Outlook AI Email Assistant with contact support from Monday and Airtable.json
+/workspace/Gmail_and_Email_Automation/Analyze & Sort Suspicious Email Contents with ChatGPT.json
+/workspace/Gmail_and_Email_Automation/Gmail AI Auto-Responder_ Create Draft Replies to incoming emails.json
+/workspace/Gmail_and_Email_Automation/Modular & Customizable AI-Powered Email Routing_ Text Classifier for eCommerce.json
+/workspace/Gmail_and_Email_Automation/Send a ChatGPT email reply and save responses to Google Sheets.json
+/workspace/Gmail_and_Email_Automation/AI-powered email processing autoresponder and response approval (Yes_No).json
+/workspace/Gmail_and_Email_Automation/Extract spending history from gmail to google sheet.json
+/workspace/Gmail_and_Email_Automation/Effortless Email Management with AI-Powered Summarization & Review.json
+/workspace/Gmail_and_Email_Automation/Auto-label incoming Gmail messages with AI nodes.json
+/workspace/Telegram/🐋🤖 DeepSeek AI Agent + Telegram + LONG TERM Memory 🧠.json
+/workspace/Telegram/Send a random recipe once a day to Telegram.json
+/workspace/Telegram/Automated AI image analysis and response via Telegram.json
+/workspace/Telegram/AI-Powered Children_s Arabic Storytelling on Telegram.json
+/workspace/Telegram/Detect toxic language in Telegram messages.json
+/workspace/Telegram/Image Creation with OpenAI and Telegram.json
+/workspace/Telegram/Translate Telegram audio messages with AI (55 supported languages).json
+/workspace/Telegram/Agentic Telegram AI bot with with LangChain nodes and new tools.json
+/workspace/Telegram/🤖🧠 AI Agent Chatbot + LONG TERM Memory + Note Storage + Telegram.json
+/workspace/Telegram/Telegram AI Bot_ NeurochainAI Text & Image - NeurochainAI Basic API Integration.json
+/workspace/Telegram/Chat with OpenAIs GPT via a simple Telegram Bot.json
+/workspace/Telegram/Telegram AI bot with LangChain nodes.json
+/workspace/Telegram/Telegram AI Chatbot.json
+/workspace/Telegram/Telegram Bot with Supabase memory and OpenAI assistant integration.json
+/workspace/Telegram/AI-Powered Children_s English Storytelling on Telegram with OpenAI.json
+/workspace/Telegram/Telegram chat with PDF.json
+/workspace/Telegram/Angie, Personal AI Assistant with Telegram Voice and Text.json
+/workspace/Telegram/🤖 Telegram Messaging Agent for Text_Audio_Images.json
+/workspace/Telegram/Telegram to Spotify with OpenAI.json
+/workspace/Telegram/Telegram AI bot assistant_ ready-made template for voice & text messages.json
+/workspace/Google_Drive_and_Google_Sheets/Flux Dev Image Generation (Fal.ai) to Google Drive.json
+/workspace/Google_Drive_and_Google_Sheets/Summarize Google Sheets form feedback via OpenAI_s GPT-4.json
+/workspace/Google_Drive_and_Google_Sheets/✨ Vision-Based AI Agent Scraper - with Google Sheets, ScrapingBee, and Gemini.json
+/workspace/Google_Drive_and_Google_Sheets/RAG Chatbot for Company Documents using Google Drive and Gemini.json
+/workspace/Google_Drive_and_Google_Sheets/Build an OpenAI Assistant with Google Drive Integration.json
+/workspace/Google_Drive_and_Google_Sheets/Simple Expense Tracker with n8n Chat, AI Agent and Google Sheets.json
+/workspace/Google_Drive_and_Google_Sheets/Summarize the New Documents from Google Drive and Save Summary in Google Sheet.json
+/workspace/Google_Drive_and_Google_Sheets/Chat with a Google Sheet using AI.json
+/workspace/Google_Drive_and_Google_Sheets/Author and Publish Blog Posts From Google Sheets.json
+/workspace/Google_Drive_and_Google_Sheets/Screen Applicants With AI, notify HR and save them in a Google Sheet.json
+/workspace/Google_Drive_and_Google_Sheets/Upload to Instagram and Tiktok from Google Drive.json
+/workspace/Google_Drive_and_Google_Sheets/Extract Information from a Logo Sheet using forms, AI, Google Sheet and Airtable.json
+/workspace/Google_Drive_and_Google_Sheets/Automatic Background Removal for Images in Google Drive.json
+/workspace/Google_Drive_and_Google_Sheets/Qualify new leads in Google Sheets via OpenAI_s GPT-4.json
+/workspace/Google_Drive_and_Google_Sheets/RAG_Context-Aware Chunking _ Google Drive to Pinecone via OpenRouter & Gemini.json
+/workspace/Google_Drive_and_Google_Sheets/Automated End-to-End Fine-Tuning of OpenAI Models with Google Drive Integration.json
+/workspace/Google_Drive_and_Google_Sheets/Chat with your event schedule from Google Sheets in Telegram.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Spot Workplace Discrimination Patterns with AI.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Build Your Own Image Search Using AI Object Detection, CDN and ElasticSearchBuild Your Own Image Search Using AI Object Detection, CDN and ElasticSearch.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Customer Insights with Qdrant, Python and Information Extractor.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Send Google analytics data to A.I. to analyze then save results in BaserowSend Google analytics data to A.I. to analyze then save results in Baserow.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Hacker News to Video Content.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Summarize Umami data with AI (via Openrouter) and save it to Baserow.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Chat with GitHub API Documentation_ RAG-Powered Chatbot with Pinecone & OpenAI.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Query Perplexity AI from your n8n workflows.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Visual Regression Testing with Apify and AI Vision Model.json
+/workspace/AI_Research_RAG_and_Data_Analysis/🔍 Perplexity Research to HTML_ AI-Powered Content Creation.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Build a Tax Code Assistant with Qdrant, Mistral.ai and OpenAI.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Make OpenAI Citation for File Retrieval RAG.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Reconcile Rent Payments with Local Excel Spreadsheet and OpenAI.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Survey Insights with Qdrant, Python and Information Extractor.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Analyze tradingview.com charts with Chrome extension, N8N and OpenAI.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Vector Database as a Big Data Analysis Tool for AI Agents [1_3 anomaly][1_2 KNN].json
+/workspace/AI_Research_RAG_and_Data_Analysis/Intelligent Web Query and Semantic Re-Ranking Flow using Brave and Google Gemini.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Hacker News Job Listing Scraper and Parser.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Scrape and summarize webpages with AI.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Send Google analytics data to A.I. to analyze then save results in Baserow.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Summarize SERPBear data with AI (via Openrouter) and save it to Baserow.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Scrape Trustpilot Reviews with DeepSeek, Analyze Sentiment with OpenAI.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Build a Financial Documents Assistant using Qdrant and Mistral.ai.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Vector Database as a Big Data Analysis Tool for AI Agents [2_2 KNN].json
+/workspace/AI_Research_RAG_and_Data_Analysis/Ultimate Scraper Workflow for n8n.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Recipe Recommendations with Qdrant and Mistral.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Building RAG Chatbot for Movie Recommendations with Qdrant and Open AI.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Vector Database as a Big Data Analysis Tool for AI Agents [3_3 - anomaly].json
+/workspace/AI_Research_RAG_and_Data_Analysis/Scrape and summarize posts of a news site without RSS feed using AI and save them to a NocoDB.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Enrich Property Inventory Survey with Image Recognition and AI Agent.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Generate SEO Seed Keywords Using AI.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Deduplicate Scraping AI Grants for Eligibility using AI.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Learn Anything from HN - Get Top Resource Recommendations from Hacker News.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Automated Hugging Face Paper Summary Fetching & Categorization Workflow.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Vector Database as a Big Data Analysis Tool for AI Agents [2_3 - anomaly].json
+/workspace/AI_Research_RAG_and_Data_Analysis/Open Deep Research - AI-Powered Autonomous Research Workflow.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Create a Google Analytics Data Report with AI and sent it to E-Mail and Telegram.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Autonomous AI crawler.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Extract insights & analyse YouTube comments via AI Agent chat.json
+/workspace/AI_Research_RAG_and_Data_Analysis/Host Your Own AI Deep Research Agent with n8n, Apify and OpenAI o3.json
+/workspace/Other_Integrations_and_Use_Cases/Introduction to the HTTP Tool.json
+/workspace/Other_Integrations_and_Use_Cases/Automate Pinterest Analysis & AI-Powered Content Suggestions With Pinterest API.json
+/workspace/Other_Integrations_and_Use_Cases/Automate Screenshots with URLbox & Analyze them with AI.json
+/workspace/Other_Integrations_and_Use_Cases/UTM Link Creator & QR Code Generator with Scheduled Google Analytics Reports.json
+/workspace/Other_Integrations_and_Use_Cases/Analyze feedback and send a message on Mattermost.json
+/workspace/Other_Integrations_and_Use_Cases/Create, update, and get a profile in Humantic AI.json
+/workspace/Other_Integrations_and_Use_Cases/Enhance Customer Chat by Buffering Messages with Twilio and Redis.json
+/workspace/Other_Integrations_and_Use_Cases/Handling Appointment Leads and Follow-up With Twilio, Cal.com and AI.json
+/workspace/Other_Integrations_and_Use_Cases/Text automations using Apple Shortcuts.json
+/workspace/Other_Integrations_and_Use_Cases/Bitrix24 Chatbot Application Workflow example with Webhook Integration.json
+/workspace/Other_Integrations_and_Use_Cases/Siri AI Agent_ Apple Shortcuts powered voice template.json
+/workspace/Other_Integrations_and_Use_Cases/Optimize & Update Printify Title and Description Workflow.json
+/workspace/Other_Integrations_and_Use_Cases/LINE Assistant with Google Calendar and Gmail Integration.json
+/workspace/Other_Integrations_and_Use_Cases/API Schema Extractor.json
+/workspace/Other_Integrations_and_Use_Cases/Classify new bugs in Linear with OpenAI_s GPT-4 and move them to the right team.json
+/workspace/Other_Integrations_and_Use_Cases/Zoom AI Meeting Assistant creates mail summary, ClickUp tasks and follow-up call.json
+/workspace/Other_Integrations_and_Use_Cases/Hacker News Throwback Machine - See What Was Hot on This Day, Every Year!.json
+/workspace/Other_Integrations_and_Use_Cases/Using External Workflows as Tools in n8n.json
+/workspace/Other_Integrations_and_Use_Cases/Obsidian Notes Read Aloud using AI_ Available as a Podcast Feed.json
+/workspace/Other_Integrations_and_Use_Cases/Visualize your SQL Agent queries with OpenAI and Quickchart.io.json
+/workspace/Other_Integrations_and_Use_Cases/Qualify replies from Pipedrive persons with AI.json
+/workspace/Other_Integrations_and_Use_Cases/Integrating AI with Open-Meteo API for Enhanced Weather Forecasting.json
+/workspace/Other_Integrations_and_Use_Cases/Monthly Spotify Track Archiving and Playlist Classification.json
+/workspace/Other_Integrations_and_Use_Cases/Automate SIEM Alert Enrichment with MITRE ATT&CK, Qdrant & Zendesk in n8n.json
+/workspace/Other_Integrations_and_Use_Cases/Analyze feedback using AWS Comprehend and send it to a Mattermost channel.json
+/workspace/Other_Integrations_and_Use_Cases/Use AI to organize your Todoist Inbox.json
+/workspace/Other_Integrations_and_Use_Cases/KB Tool - Confluence Knowledge Base.json
+/workspace/Other_Integrations_and_Use_Cases/Automate testimonials in Strapi with n8n.json
+/workspace/Other_Integrations_and_Use_Cases/ChatGPT Automatic Code Review in Gitlab MR.json
+/workspace/PDF_and_Document_Processing/Transcribing Bank Statements To Markdown Using Gemini Vision AI.json
+/workspace/PDF_and_Document_Processing/Ask questions about a PDF using AI.json
+/workspace/PDF_and_Document_Processing/Convert URL HTML to Markdown Format and Get Page Links.json
+/workspace/PDF_and_Document_Processing/Chat with PDF docs using AI (quoting sources).json
+/workspace/PDF_and_Document_Processing/Extract text from PDF and image using Vertex AI (Gemini) into CSV.json
+/workspace/PDF_and_Document_Processing/Extract data from resume and create PDF with Gotenberg.json
+/workspace/PDF_and_Document_Processing/Invoice data extraction with LlamaParse and OpenAI.json
+/workspace/PDF_and_Document_Processing/CV Resume PDF Parsing with Multimodal Vision AI.json
+/workspace/PDF_and_Document_Processing/Transcribe Audio Files, Summarize with GPT-4, and Store in Notion.json
+/workspace/PDF_and_Document_Processing/Remove Personally Identifiable Information (PII) from CSV Files with OpenAI.json
+/workspace/PDF_and_Document_Processing/Breakdown Documents into Study Notes using Templating MistralAI and Qdrant.json
+/workspace/PDF_and_Document_Processing/Parse PDF with LlamaParse and save to Airtable.json
+/workspace/PDF_and_Document_Processing/ETL pipeline for text processing.json
+/workspace/PDF_and_Document_Processing/Manipulate PDF with Adobe developer API.json
+/workspace/PDF_and_Document_Processing/Extract license plate number from image uploaded via an n8n form.json
+/workspace/PDF_and_Document_Processing/Prepare CSV files with GPT-4Prepare CSV files with GPT-4.json
+/workspace/PDF_and_Document_Processing/Extract and process information directly from PDF using Claude and Gemini.json
+/workspace/WordPress/WordPress - AI Chatbot to enhance user experience - with Supabase and OpenAI.json
+/workspace/WordPress/Automate Blog Creation in Brand Voice with AI.json
+/workspace/WordPress/Write a WordPress post with AI (starting from a few keywords).json
+/workspace/WordPress/Auto-Categorize blog posts in wordpress using A.I..json
+/workspace/WordPress/Automate Content Generator for WordPress with DeepSeek R1.json
+/workspace/WordPress/Auto-Tag Blog Posts in WordPress with AI.json
+/workspace/Database_and_Storage/Supabase Insertion & Upsertion & Retrieval.json
+/workspace/Database_and_Storage/Talk to your SQLite database with a LangChain AI Agent.json
+/workspace/Database_and_Storage/Generate SQL queries from schema only - AI-powered.json
+/workspace/Database_and_Storage/MongoDB AI Agent - Intelligent Movie Recommendations.json
+/workspace/Database_and_Storage/Chat with Postgresql Database.json
+/workspace/OpenAI_and_LLMs/AI_ Ask questions about any data source (using the n8n workflow retriever).json
+/workspace/OpenAI_and_LLMs/AI-Powered Email Automation for Business_ Summarize & Respond with RAG.json
+/workspace/OpenAI_and_LLMs/Chat Assistant (OpenAI assistant) with Postgres Memory And API Calling Capabalities.json
+/workspace/OpenAI_and_LLMs/Transform Image to Lego Style Using Line and Dall-E.json
+/workspace/OpenAI_and_LLMs/AI Automated HR Workflow for CV Analysis and Candidate Evaluation.json
+/workspace/OpenAI_and_LLMs/🔥📈🤖 AI Agent for n8n Creators Leaderboard - Find Popular Workflows.json
+/workspace/OpenAI_and_LLMs/Dynamically generate a webpage from user request using OpenAI Structured Output.json
+/workspace/OpenAI_and_LLMs/🐋DeepSeek V3 Chat & R1 Reasoning Quick Start.json
+/workspace/OpenAI_and_LLMs/Daily meetings summarization with Gemini AI.json
+/workspace/OpenAI_and_LLMs/Generate Text-to-Speech Using Elevenlabs via API.json
+/workspace/OpenAI_and_LLMs/AI Data Extraction with Dynamic Prompts and Airtable.json
+/workspace/OpenAI_and_LLMs/📚 Auto-generate documentation for n8n workflows with GPT and Docsify.json
+/workspace/OpenAI_and_LLMs/Daily Podcast Summary.json
+/workspace/OpenAI_and_LLMs/Actioning Your Meeting Next Steps using Transcripts and AI.json
+/workspace/OpenAI_and_LLMs/AI-powered WooCommerce Support-Agent.json
+/workspace/OpenAI_and_LLMs/Ask a human for help when the AI doesn_t know the answer.json
+/workspace/OpenAI_and_LLMs/AI-Generated Summary Block for WordPress Posts.json
+/workspace/OpenAI_and_LLMs/🤖🧑_💻 AI Agent for Top n8n Creators Leaderboard Reporting.json
+/workspace/OpenAI_and_LLMs/Custom LangChain agent written in JavaScript.json
+/workspace/OpenAI_and_LLMs/Automate Your RFP Process with OpenAI Assistants.json
+/workspace/OpenAI_and_LLMs/AI Voice Chat using Webhook, Memory Manager, OpenAI, Google Gemini & ElevenLabs.json
+/workspace/OpenAI_and_LLMs/Fetch Dynamic Prompts from GitHub and Auto-Populate n8n Expressions in Prompt.json
+/workspace/OpenAI_and_LLMs/Chat with OpenAI Assistant (by adding a memory).json
+/workspace/OpenAI_and_LLMs/🔐🦙🤖 Private & Local Ollama Self-Hosted AI Assistant.json
+/workspace/OpenAI_and_LLMs/Query n8n Credentials with AI SQL Agent.json
+/workspace/OpenAI_and_LLMs/Use OpenRouter in n8n versions _1.78.json
+/workspace/OpenAI_and_LLMs/AI-Powered Social Media Amplifier.json
+/workspace/OpenAI_and_LLMs/AI agent chat.json
+/workspace/OpenAI_and_LLMs/AI Agent _ Google calendar assistant using OpenAI.json
+/workspace/OpenAI_and_LLMs/Prompt-based Object Detection with Gemini 2.0.json
+/workspace/OpenAI_and_LLMs/Proxmox AI Agent with n8n and Generative AI Integration.json
+/workspace/OpenAI_and_LLMs/lemlist __ GPT-3_ Supercharge your sales workflows.json
+/workspace/OpenAI_and_LLMs/AI web researcher for sales.json
+/workspace/OpenAI_and_LLMs/Force AI to use a specific output format.json
+/workspace/OpenAI_and_LLMs/Personal Shopper Chatbot for WooCommerce with RAG using Google Drive and openAI.json
+/workspace/OpenAI_and_LLMs/AI Powered Web Scraping with Jina, Google Sheets and OpenAI _ the EASY way.json
+/workspace/OpenAI_and_LLMs/AI Agent To Chat With Files In Supabase Storage.json
+/workspace/OpenAI_and_LLMs/AI Agent with Ollama for current weather and wiki.json
+/workspace/OpenAI_and_LLMs/Extract personal data with self-hosted LLM Mistral NeMo.json
+/workspace/OpenAI_and_LLMs/AI Agent to chat with you Search Console Data, using OpenAI and Postgres.json
+/workspace/OpenAI_and_LLMs/AI Fitness Coach Strava Data Analysis and Personalized Training Insights.json
+/workspace/OpenAI_and_LLMs/OpenAI assistant with custom tools.json
+/workspace/OpenAI_and_LLMs/Suggest meeting slots using AI.json
+/workspace/OpenAI_and_LLMs/AI Data Extraction with Dynamic Prompts and Baserow.json
+/workspace/OpenAI_and_LLMs/AI Voice Chatbot with ElevenLabs & OpenAI for Customer Service and Restaurants.json
+/workspace/OpenAI_and_LLMs/OpenAI Assistant workflow_ upload file, create an Assistant, chat with it!.json
+/workspace/OpenAI_and_LLMs/Chat with local LLMs using n8n and Ollama.json
+/workspace/OpenAI_and_LLMs/Easy Image Captioning with Gemini 1.5 Pro.json
+/workspace/OpenAI_and_LLMs/Configure your own Image Creation API Using OpenAI DALLE-3.json
+/workspace/OpenAI_and_LLMs/AI Social Media Caption Creator creates social media post captions in Airtable.json
+/workspace/OpenAI_and_LLMs/AI-Driven Lead Management and Inquiry Automation with ERPNext & n8n.json
+/workspace/OpenAI_and_LLMs/AI-Powered RAG Workflow For Stock Earnings Report Analysis.json
+/workspace/OpenAI_and_LLMs/AI Youtube Trend Finder Based On Niche.json
+/workspace/OpenAI_and_LLMs/OpenAI examples_ ChatGPT, DALLE-2, Whisper-1 – 5-in-1.json
+/workspace/OpenAI_and_LLMs/Summarize YouTube Videos from Transcript.json
+/workspace/OpenAI_and_LLMs/Flux AI Image Generator.json
+/workspace/OpenAI_and_LLMs/AI chat with any data source (using the n8n workflow tool).json
+/workspace/OpenAI_and_LLMs/🚀 Local Multi-LLM Testing & Performance Tracker.json
+/workspace/OpenAI_and_LLMs/Automate Customer Support Issue Resolution using AI Text Classifier.json
+/workspace/OpenAI_and_LLMs/Translate audio using AI.json
+/workspace/OpenAI_and_LLMs/AI agent that can scrape webpages.json
+/workspace/OpenAI_and_LLMs/AI-Powered Candidate Shortlisting Automation for ERPNext.json
+/workspace/OpenAI_and_LLMs/AI Crew to Automate Fundamental Stock Analysis - Q&A Workflow.json
+/workspace/OpenAI_and_LLMs/Narrating over a Video using Multimodal AI.json
+/workspace/OpenAI_and_LLMs/Detect hallucinations using specialised Ollama model bespoke-minicheck.json
+/workspace/OpenAI_and_LLMs/AI chatbot that can search the web.json
+/workspace/OpenAI_and_LLMs/Convert text to speech with OpenAI.json
+/workspace/OpenAI_and_LLMs/AI Agent for realtime insights on meetings.json
+/workspace/OpenAI_and_LLMs/AI Customer feedback sentiment analysis.json
+/workspace/OpenAI_and_LLMs/Organise Your Local File Directories With AI.json
+/workspace/OpenAI_and_LLMs/Enrich FAQ sections on your website pages at scale with AI.json
+/workspace/OpenAI_and_LLMs/Create a Branded AI-Powered Website Chatbot.json
+/workspace/OpenAI_and_LLMs/⚡AI-Powered YouTube Video Summarization & Analysis.json
+/workspace/OpenAI_and_LLMs/🎨 Interactive Image Editor with FLUX.1 Fill Tool for Inpainting.json
+/workspace/OpenAI_and_LLMs/Generate audio from text using OpenAI and Webhook _ Text to Speech Workflow.json
+/workspace/OpenAI_and_LLMs/AI_ Summarize podcast episode and enhance using Wikipedia.json
+/workspace/OpenAI_and_LLMs/AI Agent to chat with Supabase_PostgreSQL DB.json
+/workspace/OpenAI_and_LLMs/Automate Image Validation Tasks using AI Vision.json
+/workspace/OpenAI_and_LLMs/Generate 9_16 Images from Content and Brand Guidelines.json
+/workspace/OpenAI_and_LLMs/Advanced AI Demo (Presented at AI Developers #14 meetup).json
+/workspace/OpenAI_and_LLMs/Generating Image Embeddings via Textual Summarisation.json
+/workspace/Notion/Notion AI Assistant Generator.json
+/workspace/Notion/Turn Emails into AI-Enhanced Tasks in Notion (Multi-User Support) with Gmail, Airtable and Softr.json
+/workspace/Notion/Upsert huge documents in a vector store with Supabase and Notion.json
+/workspace/Notion/Analyse papers from Hugging Face with AI and store them in Notion.json
+/workspace/Notion/Add positive feedback messages to a table in Notion.json
+/workspace/Notion/Automate LinkedIn Outreach with Notion and OpenAI.json
+/workspace/Notion/Store Notion_s Pages as Vector Documents into Supabase with OpenAI.json
+/workspace/Notion/Automate Competitor Research with Exa.ai, Notion and AI Agents.json
+/workspace/Notion/Notion to Pinecone Vector Store Integration.json
+/workspace/Notion/Notion knowledge base AI assistant.json
+/workspace/Slack/Enhance Security Operations with the Qualys Slack Shortcut Bot!.json
+/workspace/Slack/Enrich Pipedrive_s Organization Data with OpenAI GPT-4o & Notify it in Slack.json
+/workspace/Slack/Slack slash commands AI Chat Bot.json
+/workspace/Slack/Venafi Cloud Slack Cert Bot.json
+/workspace/Slack/Customer Support Channel and Ticketing System with Slack and Linear.json
+/workspace/Slack/Sentiment Analysis Tracking on Support Issues with Linear and Slack.json
+/workspace/Slack/IT Ops AI SlackBot Workflow - Chat with your knowledge base.json
+/workspace/Slack/Creating a AI Slack Bot with Google Gemini.json
+/workspace/Slack/AI-Powered Information Monitoring with OpenAI, Google Sheets, Jina AI and Slack.json
+/workspace/WhatsApp/Complete business WhatsApp AI-Powered RAG Chatbot using OpenAI.json
+/workspace/WhatsApp/Respond to WhatsApp Messages with AI Like a Pro!.json
+/workspace/WhatsApp/Building Your First WhatsApp Chatbot.json
+/workspace/WhatsApp/Automate Sales Meeting Prep with AI & APIFY Sent To WhatsApp.json
