@@ -42,6 +42,9 @@ python tools/search_templates.py -q gmail --paths-only
 
 # Search only filenames and titles (skip content)
 python tools/search_templates.py -q notion --filenames
+
+# Summarize matching workflows (metadata: node types, triggers, creds)
+python tools/search_templates.py -q gmail --summary -n 3
 ```
 
 Import a template into n8n:

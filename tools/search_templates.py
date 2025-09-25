@@ -11,6 +11,9 @@ Examples:
 
   - Print only matching file paths (absolute):
       python tools/search_templates.py -q gmail --paths-only
+
+  - Summarize matching workflows (name, nodes, triggers, credentials):
+      python tools/search_templates.py -q gmail --summary -n 3
 """
 
 import argparse
@@ -20,7 +23,7 @@ import os
 import sys
 from dataclasses import dataclass
 from datetime import datetime
-from typing import Iterable, List, Optional, Tuple
+from typing import Dict, Iterable, List, Optional, Set, Tuple
 
 
 REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
@@ -158,6 +161,7 @@ def parse_args(argv: List[str]) -> argparse.Namespace:
     parser.add_argument('-n', '--limit', type=int, default=25, help='Maximum number of results to print (default: 25).')
     parser.add_argument('--paths-only', action='store_true', help='Print only absolute file paths.')
     parser.add_argument('--filenames', action='store_true', help='Search only filenames/title (skip file content).')
+    parser.add_argument('--summary', action='store_true', help='Print a brief summary of each matching workflow.')
     return parser.parse_args(argv)
 
 
@@ -173,7 +177,43 @@ def main(argv: List[str]) -> int:
     if not hits:
         print('No results found.', file=sys.stderr)
         return 1
-    print_hits(hits, paths_only=args.paths_only)
+    if args.summary:
+        for h in hits:
+            data = try_parse_json(h.absolute_path) or {}
+            title, nodes_count = extract_title_and_nodes_count(h.absolute_path, data)
+            node_types: Dict[str, int] = {}
+            triggers: Set[str] = set()
+            credentials: Set[str] = set()
+            nodes = data.get('nodes') if isinstance(data, dict) else None
+            if isinstance(nodes, list):
+                for node in nodes:
+                    node_type = ''
+                    if isinstance(node, dict):
+                        node_type = str(node.get('type') or '')
+                        if node_type:
+                            base_type = node_type.split('.')[-1]
+                            node_types[base_type] = node_types.get(base_type, 0) + 1
+                            lt = base_type.lower()
+                            if any(t in lt for t in ['trigger', 'webhook', 'cron', 'schedule']):
+                                triggers.add(base_type)
+                        creds = node.get('credentials')
+                        if isinstance(creds, dict):
+                            for cred_type in creds.keys():
+                                credentials.add(str(cred_type))
+            # Print one-line header
+            nodes_info = f"nodes={nodes_count}" if nodes_count is not None else "nodes=?"
+            print(f"{h.relative_path} | {title} | category={h.category} | {nodes_info}")
+            # Print details in compact form
+            if node_types:
+                top_types = ', '.join([f"{k}x{v}" for k, v in sorted(node_types.items(), key=lambda kv: (-kv[1], kv[0]))[:10]])
+                print(f"  node_types: {top_types}")
+            if triggers:
+                print(f"  triggers: {', '.join(sorted(triggers))}")
+            if credentials:
+                print(f"  credentials: {', '.join(sorted(credentials))}")
+            print(f"  mtime: {h.modified_iso} | size: {h.file_size_bytes} bytes")
+    else:
+        print_hits(hits, paths_only=args.paths_only)
     return 0
 
 
