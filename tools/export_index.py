@@ -93,7 +93,9 @@ def write_csv(records: List[TemplateRecord], csv_path: str) -> None:
         'file_size_bytes',
         'modified_iso',
     ]
-    os.makedirs(os.path.dirname(csv_path), exist_ok=True)
+    csv_dir = os.path.dirname(csv_path)
+    if csv_dir:
+        os.makedirs(csv_dir, exist_ok=True)
     with open(csv_path, 'w', encoding='utf-8', newline='') as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -102,7 +104,9 @@ def write_csv(records: List[TemplateRecord], csv_path: str) -> None:
 
 
 def write_json(records: List[TemplateRecord], json_path: str) -> None:
-    os.makedirs(os.path.dirname(json_path), exist_ok=True)
+    json_dir = os.path.dirname(json_path)
+    if json_dir:
+        os.makedirs(json_dir, exist_ok=True)
     with open(json_path, 'w', encoding='utf-8') as f:
         json.dump([asdict(r) for r in records], f, ensure_ascii=False, indent=2)
 
