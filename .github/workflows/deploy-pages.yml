@@ -1,0 +1,66 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [ main, master ]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Build static site
+        run: |
+          python tools/export_index.py --csv all_templates.csv --json all_templates.json
+          mkdir -p dist
+          mv all_templates.csv all_templates.json dist/
+          mkdir -p dist/preview
+          cp -r preview/index.html dist/preview/index.html
+          # copy categories containing json templates
+          python - <<'PY'
+import os, shutil
+from tools.export_index import REPO_ROOT, iter_json_files
+root = REPO_ROOT
+dist = os.path.join(root, 'dist')
+os.makedirs(dist, exist_ok=True)
+seen = set()
+for p in iter_json_files(root):
+    rel = os.path.relpath(p, root)
+    top = rel.split(os.sep)[0]
+    if top not in seen:
+        src = os.path.join(root, top)
+        if os.path.isdir(src):
+            dst = os.path.join(dist, top)
+            if os.path.exists(dst): shutil.rmtree(dst)
+            shutil.copytree(src, dst)
+            seen.add(top)
+PY
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
