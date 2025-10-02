@@ -54,7 +54,7 @@ def validate_json_file(path: str) -> Tuple[bool, Optional[str]]:
         (is_valid, error_message) - error_message is None if valid
     """
     try:
-        with open(path, 'r', encoding='utf-8', errors='ignore') as f:
+        with open(path, 'r', encoding='utf-8', errors='replace') as f:
             content = f.read().strip()
         
         # Skip empty files
