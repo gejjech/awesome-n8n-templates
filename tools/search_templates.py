@@ -47,17 +47,17 @@ def iter_json_files(root_dir: str) -> Iterable[str]:
 
 def safe_read_text(path: str) -> str:
     try:
-        with open(path, 'r', encoding='utf-8', errors='ignore') as f:
+        with open(path, 'r', encoding='utf-8', errors='replace') as f:
             return f.read()
-    except Exception:
+    except (OSError, UnicodeDecodeError):
         return ''
 
 
 def try_parse_json(path: str) -> Optional[dict]:
     try:
-        with open(path, 'r', encoding='utf-8', errors='ignore') as f:
+        with open(path, 'r', encoding='utf-8', errors='replace') as f:
             return json.load(f)
-    except Exception:
+    except (OSError, UnicodeDecodeError, json.JSONDecodeError):
         return None
 
 
